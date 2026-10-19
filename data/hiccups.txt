@@ -1,0 +1,1268 @@
+1,000 POTENTIAL MORTGAGE LOAN UNDERWRITING HICCUPS
+United States | 50 categories | 20 issues per category | 1,000 total issues
+
+PURPOSE
+A categorized idea/reference list of situations that may trigger documentation
+requests, re-underwriting, pricing changes, delays, additional review, or denial.
+These are potential issues, not automatic denials or a universal rulebook.
+Applicability varies by lender, investor, loan type, property, location, and
+current agency guidance. Always verify the requirements of the chosen program.
+
+CATEGORY INDEX
+01. Borrower identity and personal information   [items 0001-0020]
+02. Residency, legal capacity, and borrower eligibility   [items 0021-0040]
+03. Credit report accuracy and qualifying scores   [items 0041-0060]
+04. Payment history and housing performance   [items 0061-0080]
+05. Major credit events and derogatory records   [items 0081-0100]
+06. Credit inquiries and newly opened obligations   [items 0101-0120]
+07. Debt-to-income ratio and payment calculations   [items 0121-0140]
+08. Student, auto, revolving, and consumer debts   [items 0141-0160]
+09. Legal, tax, support, and contingent obligations   [items 0161-0180]
+10. Employment verification and base wages   [items 0181-0200]
+11. Bonuses, commissions, overtime, and variable W-2 income   [items 0201-0220]
+12. Job transitions and nonstandard employment   [items 0221-0240]
+13. Self-employment and personal tax returns   [items 0241-0260]
+14. Partnership, S-corporation, and business-tax analysis   [items 0261-0280]
+15. Business operating health and continuity   [items 0281-0300]
+16. Bank-statement loan documentation and calculation   [items 0301-0320]
+17. 1099, gig, freelance, and alternative income   [items 0321-0340]
+18. Pension, benefits, disability, and nonemployment income   [items 0341-0360]
+19. Dividends, interest, trust, and asset-based income   [items 0361-0380]
+20. Long-term rental income and lease analysis   [items 0381-0400]
+21. DSCR loan income, coverage, and borrower structure   [items 0401-0420]
+22. Short-term rentals and special rental arrangements   [items 0421-0440]
+23. Bank and brokerage asset-document problems   [items 0441-0460]
+24. Large deposits and funds-source tracing   [items 0461-0480]
+25. Gifts, grants, and down-payment assistance   [items 0481-0500]
+26. Down payment, reserves, and cash-to-close calculation   [items 0501-0520]
+27. Title, liens, vesting, and ownership history   [items 0521-0540]
+28. Appraisal process, report validity, and value   [items 0541-0560]
+29. Comparable sales, neighborhood, and marketability   [items 0561-0580]
+30. Property condition, repairs, and habitability   [items 0581-0600]
+31. Flood, disaster, environmental, and site hazards   [items 0601-0620]
+32. Homeowners, flood, wind, and other insurance   [items 0621-0640]
+33. Property taxes, HOA dues, and assessments   [items 0641-0660]
+34. Condominium project eligibility and reviews   [items 0661-0680]
+35. Co-ops, PUDs, and common-interest communities   [items 0681-0700]
+36. Two-to-four-unit properties and accessory dwelling units   [items 0701-0720]
+37. Manufactured, modular, and unconventional construction   [items 0721-0740]
+38. Acreage, rural parcels, access, and land use   [items 0741-0760]
+39. Occupancy, primary residence, and investment intent   [items 0761-0780]
+40. Purchase contract, sellers, and transaction integrity   [items 0781-0800]
+41. Refinance, cash-out, and ownership seasoning   [items 0801-0820]
+42. HELOCs, second liens, and combined leverage   [items 0821-0840]
+43. Construction-to-permanent and renovation loans   [items 0841-0860]
+44. Bridge, fix-and-flip, and transitional property loans   [items 0861-0880]
+45. Commercial and multifamily five-plus unit loans   [items 0881-0900]
+46. FHA-specific underwriting and eligibility   [items 0901-0920]
+47. VA-specific underwriting and eligibility   [items 0921-0940]
+48. USDA guaranteed rural housing underwriting   [items 0941-0960]
+49. Jumbo, portfolio, and non-QM investor overlays   [items 0961-0980]
+50. Automated underwriting, document integrity, compliance, and closing   [items 0981-1000]
+
+================================================================================
+01. BORROWER IDENTITY AND PERSONAL INFORMATION
+================================================================================
+0001. Borrower name differs between application and government-issued identification.
+0002. Social Security number does not match the credit-bureau identity record.
+0003. Date of birth differs across the application and identity documents.
+0004. Applicant uses a recent legal name change without supporting documentation.
+0005. Credit report combines records belonging to two different people.
+0006. Borrower has an active fraud alert requiring identity verification.
+0007. Credit freeze prevents the lender from obtaining an updated credit report.
+0008. Address history contains unexplained overlapping primary residences.
+0009. Current mailing address differs from the declared residential address.
+0010. Borrower cannot produce an acceptable unexpired identification document.
+0011. Identification image is illegible or missing the reverse side.
+0012. E-signature identity questions cannot be verified successfully.
+0013. Borrower signs documents using a name inconsistent with legal vesting.
+0014. Middle initial discrepancy prevents automated document matching.
+0015. Borrower has not disclosed a prior surname shown in public records.
+0016. Two applicants' identity records appear to share an identification number.
+0017. Borrower identity documents show inconsistent spellings across translations.
+0018. Credit file shows an unexplained address linked to a suspected fraud event.
+0019. Identity verification flags a deceased-person database mismatch.
+0020. An application omits a required borrower or co-borrower identifier.
+
+================================================================================
+02. RESIDENCY, LEGAL CAPACITY, AND BORROWER ELIGIBILITY
+================================================================================
+0021. Borrower cannot document a residency status accepted by the selected program.
+0022. Visa or authorization evidence expires before the required verification date.
+0023. Submitted immigration document is inconsistent with the claimed status.
+0024. Borrower cannot establish required U.S. credit or residency documentation.
+0025. Foreign-national program requires assets in an unsupported jurisdiction.
+0026. Borrower is below the legal age to enter the contract in the property state.
+0027. Court-appointed guardian lacks authority to execute mortgage documents.
+0028. Power of attorney is missing a lender-required mortgage authorization.
+0029. Power of attorney has expired or was revoked before signing.
+0030. Trust borrower documents do not establish an eligible borrowing structure.
+0031. Trust agreement fails to identify authorized trustees.
+0032. Limited liability company is not permitted as borrower under the proposed program.
+0033. Entity borrower lacks a current certificate of good standing.
+0034. Operating agreement does not authorize the member signing the note.
+0035. Required beneficial owners of an entity cannot be verified.
+0036. Borrower has exceeded a program-specific financed-property limit.
+0037. Non-occupant co-borrower structure fails a program eligibility requirement.
+0038. Co-signer is omitted from a document requiring their execution.
+0039. Borrower cannot satisfy a first-time homebuyer program's ownership-history test.
+0040. Required homeownership education or counseling certificate is missing.
+
+================================================================================
+03. CREDIT REPORT ACCURACY AND QUALIFYING SCORES
+================================================================================
+0041. One bureau has no score for a borrower required to be scored.
+0042. Credit file is too thin for the selected product's scoring rules.
+0043. Credit score falls after a pre-closing refresh.
+0044. Middle credit score is below an investor's program threshold.
+0045. Representative score was calculated using the wrong borrower.
+0046. Bureau dispute appears on a tradeline requiring review.
+0047. Duplicate tradeline inflates outstanding liabilities.
+0048. Paid-off account still reports a balance that changes qualification.
+0049. Creditor recently updated a delinquency not reflected in preapproval.
+0050. Credit-report address mismatch triggers a bureau verification condition.
+0051. Authorized-user accounts require additional history evaluation.
+0052. Score is unavailable because the borrower has no eligible credit history.
+0053. Credit supplement conflicts with the original bureau data.
+0054. A rapid-rescore request remains pending when documents must be finalized.
+0055. Credit report expires before the loan can close.
+0056. Lender uses a credit-scoring model not accepted by the end investor.
+0057. Trade-reference documentation is insufficient for a nontraditional-credit path.
+0058. Individual bureau scores differ because a collection appears on only one report.
+0059. Credit report lists a mixed or split file requiring bureau correction.
+0060. Applicant has not resolved an identity-theft tradeline that affects qualification.
+
+================================================================================
+04. PAYMENT HISTORY AND HOUSING PERFORMANCE
+================================================================================
+0061. Existing mortgage reports a recent 30-day late payment.
+0062. Mortgage history shows a 60-day late within the investor review period.
+0063. Borrower has repeated isolated housing-payment delinquencies.
+0064. Servicer payment history conflicts with bureau-reported mortgage lates.
+0065. Private mortgage payment history cannot be independently verified.
+0066. Landlord refuses to provide requested rental-payment verification.
+0067. Canceled rent checks show irregular payment dates.
+0068. Borrower claims rent-free housing without an acceptable explanation.
+0069. Current mortgage is in an active forbearance plan requiring further review.
+0070. Borrower has an unresolved post-forbearance payment deferral issue.
+0071. Mortgage modification is missing executed terms.
+0072. Mortgage payment changed after an escrow analysis and raises DTI.
+0073. Existing loan has an undisclosed past-due payment at payoff.
+0074. Seller-financed mortgage history is undocumented.
+0075. Borrower's payments on a land contract cannot be substantiated.
+0076. Business-paid mortgage lacks evidence of the business-payment arrangement.
+0077. Borrower misstates the housing expense of their current residence.
+0078. Current lease obligations overlap with the planned mortgage payment.
+0079. Rent ledger indicates a returned or reversed housing payment.
+0080. Current housing obligation includes an undisclosed balloon payment.
+
+================================================================================
+05. MAJOR CREDIT EVENTS AND DEROGATORY RECORDS
+================================================================================
+0081. Recent bankruptcy filing has not reached the required milestone for the program.
+0082. Bankruptcy discharge documentation is missing.
+0083. Chapter 13 repayment history cannot be verified.
+0084. Borrower is still subject to a bankruptcy plan requiring court review.
+0085. Foreclosure completion date cannot be established.
+0086. Deed-in-lieu documentation is incomplete.
+0087. Short-sale settlement date differs across supporting records.
+0088. Recent charge-off materially changes the applicant's credit profile.
+0089. Outstanding collection requires a payment or qualifying-debt analysis.
+0090. Collection account is disputed with no satisfactory resolution.
+0091. Unpaid judgment could attach to the subject property.
+0092. IRS tax lien remains unresolved at closing.
+0093. State tax lien has not been formally released.
+0094. Child-support enforcement lien appears in title records.
+0095. Repossession deficiency balance remains undisclosed.
+0096. Multiple unpaid utility collections suggest unverified recurring obligations.
+0097. Borrower has a pending creditor lawsuit affecting financial capacity.
+0098. Bankruptcy schedules omitted a significant property or obligation.
+0099. A previously included mortgage debt was reaffirmed on unexpected terms.
+0100. Settlement letter does not establish that a derogatory account is satisfied.
+
+================================================================================
+06. CREDIT INQUIRIES AND NEWLY OPENED OBLIGATIONS
+================================================================================
+0101. Recent hard inquiry corresponds to an undisclosed auto loan.
+0102. Credit refresh shows a newly opened credit card.
+0103. New personal loan was funded after initial underwriting.
+0104. Borrower financed furniture before closing and increased DTI.
+0105. New buy-now-pay-later account creates an unverified payment obligation.
+0106. Borrower opened a home-equity line on another property during processing.
+0107. Undisclosed business debt has a personal guarantee requiring analysis.
+0108. New debt payment appears on a bank statement but not the credit report.
+0109. Credit inquiry explanation fails to identify whether credit was extended.
+0110. Multiple recent inquiries suggest potential undisclosed liabilities.
+0111. Authorized user became joint borrower on an account during underwriting.
+0112. Credit-card balance surged before the final credit check.
+0113. Borrower closed a longstanding account and altered the qualifying score.
+0114. Delayed-reporting retail installment account appears in a credit supplement.
+0115. Underwriter cannot obtain terms for a newly opened revolving account.
+0116. Applicant used an undisclosed margin loan to provide closing funds.
+0117. Borrower entered a vehicle lease not reflected on the credit report.
+0118. Recently assumed debt creates a payment not used in preapproval.
+0119. Co-borrower has a new obligation discovered through public records.
+0120. Final credit monitoring flags new activity that must be explained.
+
+================================================================================
+07. DEBT-TO-INCOME RATIO AND PAYMENT CALCULATIONS
+================================================================================
+0121. Final debt-to-income ratio exceeds the selected program's limit.
+0122. Qualifying mortgage payment was calculated using an outdated interest rate.
+0123. Proposed property-tax estimate is lower than documented taxes.
+0124. Homeowners insurance premium raises the total monthly housing expense.
+0125. HOA dues were omitted from the proposed housing payment.
+0126. Mortgage insurance premium was incorrectly excluded from DTI.
+0127. Qualifying payment ignores the full amortizing amount after interest-only terms.
+0128. Adjustable-rate mortgage qualification used an ineligible teaser rate.
+0129. Debt calculation double-counts or improperly omits a recurring obligation.
+0130. Household expense assumptions conflict with the program's residual-income test.
+0131. Rate-lock extension raises the payment beyond approved ratios.
+0132. Seller-credit reduction increases the loan amount and qualifying payment.
+0133. Planned subordinate financing increases combined housing costs.
+0134. Property assessment changes the tax projection before closing.
+0135. Recalculated income decreases after an updated year-to-date paystub.
+0136. Required minimum credit-card payment increases after a balance update.
+0137. Borrower has insufficient documented income for a debt exclusion request.
+0138. Co-borrower income is removed but their debt remains in the application.
+0139. Rental-loss calculation raises overall borrower DTI.
+0140. An automated underwriting resubmission produces stricter qualifying ratios.
+
+================================================================================
+08. STUDENT, AUTO, REVOLVING, AND CONSUMER DEBTS
+================================================================================
+0141. Deferred student loan requires an imputed payment under program rules.
+0142. Income-driven student-loan payment cannot be verified.
+0143. Student-loan consolidation creates a balance and payment mismatch.
+0144. Automobile lease payment was incorrectly excluded due to remaining term.
+0145. Auto loan payoff is pending without evidence of cleared funds.
+0146. Vehicle loan payment exceeds the amount listed on the application.
+0147. Credit-card minimum payment is missing from a zero-payment bureau tradeline.
+0148. Charge-card balance requires a different underwriting treatment than assumed.
+0149. Secured loan against a deposit account affects available reserves.
+0150. Personal line-of-credit minimum payment is unverified.
+0151. Installment loan has a balloon payment within the lender's review horizon.
+0152. Deferred-payment furniture account lacks repayment terms.
+0153. Buy-now-pay-later installments are visible only in transaction history.
+0154. Credit-union loan repayment is deducted from payroll but not disclosed.
+0155. Debt marked as paid by another party lacks a sufficient payment trail.
+0156. Recently refinanced vehicle loan still shows both old and new payments.
+0157. Student-loan borrower is a co-signer and the exclusion rules are not met.
+0158. Credit-card payment plan changes the contractual monthly requirement.
+0159. Employer loan repayment reduces net proceeds or requires debt analysis.
+0160. Personal loan has a variable payment with insufficient supporting terms.
+
+================================================================================
+09. LEGAL, TAX, SUPPORT, AND CONTINGENT OBLIGATIONS
+================================================================================
+0161. Court-ordered alimony payment was omitted from recurring debt.
+0162. Child-support amount in the divorce decree differs from actual payments.
+0163. Separation agreement creates a housing obligation not disclosed on the application.
+0164. Unpaid federal taxes require an acceptable payment arrangement.
+0165. Tax-payment installment agreement was not included in DTI.
+0166. State income-tax arrears create a potential lien risk.
+0167. Pending divorce makes ownership interests and obligations uncertain.
+0168. Former spouse remains liable on a mortgage assumed to be excluded.
+0169. Divorce decree assigns debt without proof of creditor release.
+0170. Borrower guarantees a business lease with a current payment dispute.
+0171. Court-ordered restitution creates an ongoing payment obligation.
+0172. Wage garnishment reduces available qualifying income or indicates debt.
+0173. Unreported homeowners-association judgment affects financial obligations.
+0174. Applicant is a co-borrower on a family member's installment loan.
+0175. Borrower is liable for a disputed commercial guarantee.
+0176. Delinquent property tax on another home signals an unresolved obligation.
+0177. Personal liability under a business loan cannot be quantified.
+0178. Settlement obligation requires a lump-sum payment before closing.
+0179. Court filing restricts a borrower's ability to transfer pledged assets.
+0180. Outstanding tax assessment is not reflected in the borrower's liability disclosure.
+
+================================================================================
+10. EMPLOYMENT VERIFICATION AND BASE WAGES
+================================================================================
+0181. Employer cannot be reached through an independently verified channel.
+0182. Written verification of employment conflicts with stated job title.
+0183. Verification of employment reports a later start date than the application.
+0184. Paystub shows fewer base hours than required for projected earnings.
+0185. Base hourly rate differs between payroll and employment records.
+0186. Employee is on unpaid leave with an unclear return-to-work date.
+0187. Employer states the borrower's position is temporary.
+0188. Borrower was terminated after loan approval but before closing.
+0189. Employer verification indicates an upcoming reduction in scheduled hours.
+0190. Borrower's employer changed legal names without explanatory records.
+0191. Third-party payroll service cannot verify employment authorization.
+0192. Employer is a relative and independent verification is insufficient.
+0193. Borrower works for an unregistered business that cannot be confirmed.
+0194. Wage deposits do not reconcile to the submitted paystubs.
+0195. Year-to-date wages imply a lower current base salary than reported.
+0196. Recent paystub includes a one-time payroll adjustment counted as wages.
+0197. Payroll frequency was misunderstood when annualizing base income.
+0198. Employee's mandatory furlough changes projected annual pay.
+0199. Foreign-based employment lacks acceptable verification under product rules.
+0200. Final verbal verification of employment cannot be completed before funding.
+
+================================================================================
+11. BONUSES, COMMISSIONS, OVERTIME, AND VARIABLE W-2 INCOME
+================================================================================
+0201. Bonus income lacks sufficient receipt history for the selected program.
+0202. Latest bonus was discretionary with no evidence of likely continuation.
+0203. Commission earnings fell sharply compared with the prior year.
+0204. Year-to-date overtime averages below the amount used in preapproval.
+0205. Employer confirms overtime is being discontinued.
+0206. Shift differential was treated as guaranteed base pay without support.
+0207. Seasonal earnings were annualized without accounting for off-season gaps.
+0208. Tips reported by the employer differ from tax-return amounts.
+0209. Cash tips lack tax or payroll records required for qualification.
+0210. Piece-rate wages fluctuate beyond an acceptable stability assessment.
+0211. Draw-against-commission arrangement was mistaken for fixed salary.
+0212. Recoverable commission draw is due back to the employer.
+0213. Sales territory change makes prior commission levels unreliable.
+0214. Signing bonus was improperly treated as recurring income.
+0215. Retention bonus is conditional and not established as recurring.
+0216. Restricted-stock compensation vests irregularly without adequate history.
+0217. Overtime is concentrated in a short, atypical period.
+0218. Bonus averaging uses an incorrect number of months.
+0219. Tip-pooling records cannot substantiate the income amount claimed.
+0220. Profit-sharing distribution is not documented as stable income.
+
+================================================================================
+12. JOB TRANSITIONS AND NONSTANDARD EMPLOYMENT
+================================================================================
+0221. Borrower has an unexplained gap in employment history.
+0222. Borrower recently changed industries and income stability needs assessment.
+0223. New job begins after the anticipated first mortgage payment.
+0224. Employment offer letter lacks required start date or compensation terms.
+0225. Employment is contingent on licensing or background clearance.
+0226. Borrower changed from salaried employee to independent contractor.
+0227. Borrower moved from part-time to full-time with limited earnings history.
+0228. Probationary employment status requires additional lender review.
+0229. Traveling contract worker lacks evidence of assignment continuity.
+0230. Staffing-agency records do not verify actual hours worked.
+0231. Multiple simultaneous jobs cannot be verified independently.
+0232. Borrower's second job ended shortly before application.
+0233. Teacher's contract does not support the months of pay assumed.
+0234. Union worker's job-call history is inconsistent with projected hours.
+0235. Seasonal unemployment benefits were mixed with employment earnings.
+0236. Military-to-civilian transition income is not yet documented.
+0237. Borrower is relocating without confirming continuation of remote employment.
+0238. Work-from-anywhere agreement excludes the subject property's state.
+0239. Borrower begins self-employment immediately before loan application.
+0240. Medical leave or disability return date is not established when needed.
+
+================================================================================
+13. SELF-EMPLOYMENT AND PERSONAL TAX RETURNS
+================================================================================
+0241. Self-employment history is shorter than the program requires.
+0242. Most recent federal income-tax return is unavailable or unfiled.
+0243. IRS transcript does not match the copy of the filed tax return.
+0244. Tax return was amended but amendment processing is unresolved.
+0245. Schedule C net income declined materially year over year.
+0246. Significant unreimbursed business expenses lower qualifying income.
+0247. Depreciation add-back was calculated incorrectly.
+0248. Business-use-of-home deduction was treated incorrectly in cash-flow analysis.
+0249. One-time capital gain was improperly used as recurring business income.
+0250. Self-employment loss from a side business offsets other qualifying income.
+0251. Borrower filed an extension without required interim documentation.
+0252. Tax return shows a business that borrower did not disclose.
+0253. Prior-year tax return reflects a business that is no longer operating.
+0254. Borrower's ownership percentage changed during the review period.
+0255. Business start date differs between license and tax records.
+0256. Self-employed borrower claims income from a company they do not own.
+0257. Reported gross receipts do not reconcile to tax-return schedules.
+0258. Mileage or vehicle-expense treatment affects eligible add-backs.
+0259. Self-employment income was averaged despite a material downward trend.
+0260. Borrower cannot provide required signed return or transcript authorization.
+
+================================================================================
+14. PARTNERSHIP, S-CORPORATION, AND BUSINESS-TAX ANALYSIS
+================================================================================
+0261. Schedule K-1 ownership share differs from the application disclosure.
+0262. K-1 ordinary income is not supported by accessible distributions.
+0263. Partnership cash flow is insufficient after business-obligation adjustments.
+0264. S-corporation distributions exceed the entity's available liquidity.
+0265. Shareholder loan repayment was mistaken for recurring income.
+0266. Business return includes a nonrecurring gain inflating profits.
+0267. Form 1120-S reports a loss that was omitted from qualifying income.
+0268. Partnership guaranteed payments cannot be reconciled to tax returns.
+0269. K-1 income is allocated from a passive business with insufficient access evidence.
+0270. Business debt service is missing from the cash-flow worksheet.
+0271. Business return and K-1 use inconsistent fiscal-year periods.
+0272. Borrower's ownership stake fell below a relevant program threshold.
+0273. Business cash distributions are restricted by partnership agreement.
+0274. Extraordinary business expense add-back lacks support.
+0275. Shareholder compensation was double-counted with K-1 business income.
+0276. Partnership capital-account balance is mistakenly treated as liquid personal funds.
+0277. Pass-through losses from another entity were excluded from analysis.
+0278. Intercompany transfers inflate cash receipts at multiple businesses.
+0279. Business reported rental losses but no supporting property schedule was provided.
+0280. Required corporate tax returns for an affiliated entity are missing.
+
+================================================================================
+15. BUSINESS OPERATING HEALTH AND CONTINUITY
+================================================================================
+0281. Year-to-date profit-and-loss statement shows shrinking revenue.
+0282. Business balance sheet shows negative working capital.
+0283. Operating account has repeated overdrafts during the review period.
+0284. Business is delinquent on payroll taxes.
+0285. Major customer loss undermines forecast income stability.
+0286. Key business license has expired.
+0287. Company is not in good standing with its registration state.
+0288. Business changed its primary industry during the income-review period.
+0289. Business has a pending lawsuit with possible material liability.
+0290. Recent sale of company assets reduces operating capacity.
+0291. Business relies on one client whose contract has expired.
+0292. Entity has an unresolved merchant cash advance obligation.
+0293. Current-year balance sheet does not reconcile to the prior-year return.
+0294. Financial statements were prepared on inconsistent accounting bases.
+0295. Owner's draws significantly exceed business cash generation.
+0296. Business recently opened but is being evaluated as established income.
+0297. Firm relies on grants that have ended and cannot support future earnings.
+0298. Borrower's business location has closed or is being relocated.
+0299. Business revenue includes refundable customer deposits treated as earned sales.
+0300. Required CPA or tax-preparer clarification is unavailable for a material discrepancy.
+
+================================================================================
+16. BANK-STATEMENT LOAN DOCUMENTATION AND CALCULATION
+================================================================================
+0301. Bank-statement loan has fewer qualifying months than the product requires.
+0302. Submitted statements are missing pages or account identifiers.
+0303. Personal and business statements were mixed contrary to product method.
+0304. Eligible-deposit calculation includes transfers between the borrower's own accounts.
+0305. Loan proceeds were counted as operating revenue deposits.
+0306. Expense factor applied to gross deposits is unsupported by program rules.
+0307. Deposits from a second business were included without documenting ownership.
+0308. NSF activity exceeds the lender's tolerance for the program.
+0309. Average monthly deposits declined substantially over the selected period.
+0310. Bank-account holder name does not match the qualifying business.
+0311. Statements show large cash deposits without adequate business explanation.
+0312. Borrower opened the qualifying account too recently.
+0313. Merchant processor deposits were double-counted with gross sales.
+0314. Refunds and chargebacks were not deducted from qualifying receipts.
+0315. Bank letter confirming account ownership cannot be obtained.
+0316. Personal transfers from business accounts do not establish qualifying income.
+0317. Bank-statement expense ratio changes after industry review.
+0318. Foreign-currency deposits lack acceptable conversion or documentation.
+0319. Account has extended inactivity inconsistent with stated business operations.
+0320. Borrower requested a deposit-only review but program requires full statements.
+
+================================================================================
+17. 1099, GIG, FREELANCE, AND ALTERNATIVE INCOME
+================================================================================
+0321. Form 1099 income is reported gross without deducting business expenses.
+0322. Platform-based gig earnings have less documented history than required.
+0323. Client invoices are unpaid and cannot substantiate received income.
+0324. Freelance revenue is concentrated in a recently terminated project.
+0325. Ride-share earnings statement conflicts with deposited amounts.
+0326. Delivery-app income is seasonal but was annualized at peak volume.
+0327. Content-creator income depends on a discontinued sponsorship.
+0328. Royalties fluctuate without a sufficiently stable receipt pattern.
+0329. Contractor has changed platforms, making combined history hard to verify.
+0330. Commission-only independent contractor lacks an acceptable track record.
+0331. Consulting contract permits cancellation without minimum guaranteed compensation.
+0332. Borrower relies on unsigned future work agreements.
+0333. Recurring subscription revenue includes refundable prepayments.
+0334. Online marketplace sales include personal-asset disposals counted as income.
+0335. Foreign freelance client payments lack source documentation.
+0336. Borrower cannot reconcile digital-wallet payouts to bank deposits.
+0337. Cryptocurrency compensation requires treatment unavailable under the loan product.
+0338. Contract income is paid through a company with unverified ownership.
+0339. Worker was reclassified from W-2 to 1099 without explaining the transition.
+0340. Gross invoice volume includes pass-through costs not earned by the borrower.
+
+================================================================================
+18. PENSION, BENEFITS, DISABILITY, AND NONEMPLOYMENT INCOME
+================================================================================
+0341. Retirement benefit award letter does not match bank deposits.
+0342. Social Security benefit amount changed after an annual adjustment.
+0343. Pension is scheduled to end before the product's continuance horizon.
+0344. Borrower cannot document required ongoing disability benefit terms.
+0345. Temporary unemployment income was used as permanent income without eligibility.
+0346. Child-support income lacks required receipt-history documentation.
+0347. Alimony received is scheduled to terminate too soon for qualifying use.
+0348. Foster-care income is irregular and lacks program-required history.
+0349. Trust or annuity income is payable less frequently than assumed.
+0350. Pension income includes a one-time retroactive catch-up payment.
+0351. Retirement distribution is voluntary with no established withdrawal plan.
+0352. Annuity account cannot support the projected distribution duration.
+0353. Workers' compensation benefits have a pending termination review.
+0354. Borrower has not begun receiving a future pension used for preapproval.
+0355. Benefit letters are dated too far before the underwriting review.
+0356. VA benefit income is claimed without current award verification.
+0357. Public-assistance income was incorrectly excluded or counted without applying program rules.
+0358. Non-taxable benefit gross-up exceeds the permitted calculation.
+0359. Survivor benefit changes upon a future life event and needs continuance review.
+0360. Long-term disability benefit includes offsets not reflected in the stated amount.
+
+================================================================================
+19. DIVIDENDS, INTEREST, TRUST, AND ASSET-BASED INCOME
+================================================================================
+0361. Dividend history is too inconsistent to support proposed qualifying income.
+0362. Interest income fell after assets were liquidated for the down payment.
+0363. Brokerage statements do not show required ownership of income-producing assets.
+0364. Planned asset depletion leaves insufficient assets for continued withdrawals.
+0365. Stock-sale proceeds were treated as recurring capital-gain income.
+0366. Interest earnings rely on a promotional rate that has ended.
+0367. Trust distribution depends on trustee discretion without documented support.
+0368. Trust corpus is restricted and cannot be accessed for qualifying distributions.
+0369. Asset-depletion calculation includes funds pledged as collateral.
+0370. IRA withdrawal history does not match the claimed monthly income.
+0371. Borrower cannot provide terms for periodic structured-settlement payments.
+0372. Dividend payments are denominated in foreign currency without support.
+0373. Investment account has a margin debit reducing eligible asset value.
+0374. Pending vesting shares were counted as currently owned assets.
+0375. Restricted stock cannot be sold under the company's trading window.
+0376. Required minimum distributions are miscalculated using an old balance.
+0377. Investment distributions come from an account jointly owned by a nonborrower.
+0378. Asset-based income calculation ignores upcoming tuition or cash commitments.
+0379. Large unrealized gains were mistaken for realized cash income.
+0380. Annuity surrender charge reduces assets available to qualify.
+
+================================================================================
+20. LONG-TERM RENTAL INCOME AND LEASE ANALYSIS
+================================================================================
+0381. Proposed rental income relies on an unsigned lease.
+0382. Lease begins after the period required for qualifying rental income.
+0383. Current lease amount differs from the rent-roll schedule.
+0384. Security deposit was incorrectly included as recurring rent.
+0385. Rental income was calculated without the program's vacancy adjustment.
+0386. Landlord expenses were excluded from a required rental cash-flow analysis.
+0387. Borrower has insufficient landlord or property-management history for a requested exception.
+0388. Existing tenant is delinquent and projected collections are uncertain.
+0389. Lease is month-to-month but underwriter used a fixed guaranteed term.
+0390. Related-party lease requires arms-length support.
+0391. Rent deposits do not reconcile to lease terms.
+0392. Property has been vacant beyond the lender's acceptable period.
+0393. Rental income on a departing residence lacks required conversion documentation.
+0394. Borrower claimed rent from a property they do not yet own.
+0395. Tenant concession makes effective rent lower than face rent.
+0396. Rental schedule uses the wrong unit count.
+0397. Tax return rental loss was omitted from the qualifying analysis.
+0398. Expense allocation between personally used and rented space is undocumented.
+0399. Rent estimate lacks an appraisal-supported market-rent schedule when required.
+0400. Co-owned rental property's income was included without matching debt treatment.
+
+================================================================================
+21. DSCR LOAN INCOME, COVERAGE, AND BORROWER STRUCTURE
+================================================================================
+0401. Property's debt-service-coverage ratio falls below the selected investor threshold.
+0402. Interest-rate increase causes DSCR to fall below the required floor.
+0403. DSCR worksheet uses property taxes from an outdated assessment.
+0404. Insurance premium increase erases projected rental cash-flow cushion.
+0405. Qualifying rent is based on an unsupported above-market lease.
+0406. Appraiser's market-rent estimate is lower than underwritten rent.
+0407. Interest-only DSCR calculation uses the wrong qualifying payment method.
+0408. Vacancy or management factor is omitted where the program requires it.
+0409. Rental property is vacant and the chosen program requires active tenancy.
+0410. Cash-out proceeds violate the DSCR investor's seasoning restrictions.
+0411. Borrower's required experience as a real estate investor is undocumented.
+0412. DSCR property is in an entity whose guaranty requirements are unmet.
+0413. Entity vesting conflicts with the loan's personal-guarantor structure.
+0414. DSCR program caps rental properties or investor exposure for one borrower.
+0415. Subject property has a nonpermitted rental use inconsistent with assumptions.
+0416. Minimum loan amount is not met after final valuation.
+0417. Prepayment-penalty structure conflicts with applicable state or program requirements.
+0418. Occupancy evidence suggests the DSCR investment property is borrower occupied.
+0419. Existing tenant's rent is lower than the pro forma figure used at intake.
+0420. DSCR matrix requires higher reserves for this property type or score tier.
+
+================================================================================
+22. SHORT-TERM RENTALS AND SPECIAL RENTAL ARRANGEMENTS
+================================================================================
+0421. Short-term rental projections rely on platform estimates instead of actual receipts.
+0422. Local ordinance prohibits the proposed vacation-rental use.
+0423. Property lacks a required short-term rental license.
+0424. Short-term rental license is nontransferable after purchase.
+0425. Platform revenue includes cleaning fees incorrectly counted as net rent.
+0426. Revenue history omits the property's low-season occupancy months.
+0427. Booking cancellations distort projected annual rental income.
+0428. Property-management statement does not reconcile to platform payouts.
+0429. HOA rules restrict rentals shorter than the required minimum stay.
+0430. Historical Airbnb statements are for a different property or owner.
+0431. Vacation-rental program requires an appraisal rent method not provided.
+0432. Rent projections assume occupancy above documented market performance.
+0433. Room-by-room rental model is not accepted by the chosen investor.
+0434. Boarding-house classification differs from the represented single-family use.
+0435. Corporate master lease has a cancellation clause that weakens cash flow.
+0436. Co-living agreement creates occupant rights inconsistent with the loan program.
+0437. Seasonal permit expires before the projected rental period.
+0438. STR furnishings revenue is mixed with real-property rental income.
+0439. Minimum-night stay ordinance makes the current business model noncompliant.
+0440. Host's net earnings are overstated because platform fees were not deducted.
+
+================================================================================
+23. BANK AND BROKERAGE ASSET-DOCUMENT PROBLEMS
+================================================================================
+0441. Bank statement is incomplete or omits numbered pages.
+0442. Statement date is too old under lender documentation requirements.
+0443. Account ownership is not established for all funds being used.
+0444. Joint account includes a nonborrower whose funds may require additional review.
+0445. Savings account balance is lower than the assets listed on the application.
+0446. Bank statement shows an overdraft that triggers a cash-management review.
+0447. Broker account valuation includes unsettled trade proceeds.
+0448. Retirement account statement omits vested or accessible balance information.
+0449. Employer retirement plan has withdrawal restrictions not considered in assets.
+0450. Stock holdings are pledged for a loan and not fully available.
+0451. Cryptocurrency wallet value is unsupported by acceptable liquidation documentation.
+0452. Bank letter provides a balance but not required transaction history.
+0453. Foreign bank statements lack acceptable translation or authentication.
+0454. Currency conversion date changes the U.S.-dollar value of reserves.
+0455. Business operating cash is used without required access and impact analysis.
+0456. Account holds securities that cannot be liquidated by closing.
+0457. Borrower claims cash savings held outside a depository institution.
+0458. Trust account documentation does not establish the borrower's withdrawal rights.
+0459. Funds are in a custodial account owned by a minor.
+0460. Borrower does not provide documentation for an account newly added to the file.
+
+================================================================================
+24. LARGE DEPOSITS AND FUNDS-SOURCE TRACING
+================================================================================
+0461. Large deposit is not supported by documentation where sourcing is required.
+0462. Cash deposit cannot be tied to an acceptable source of funds.
+0463. Wire transfer originated from an undisclosed third party.
+0464. Sale of personal property lacks a bill of sale and payment evidence.
+0465. Vehicle-sale proceeds exceed the documented value without explanation.
+0466. Transfer between accounts cannot be traced through all statements.
+0467. Business-to-personal transfer lacks support for business ownership or access.
+0468. Family reimbursement is misidentified as the borrower's own savings.
+0469. Proceeds from a new personal loan are used for an ineligible down payment.
+0470. Gambling winnings are deposited without documentation required by the program.
+0471. Foreign remittance source cannot be verified through a complete trail.
+0472. Deposit represents borrowed money secured by the subject property.
+0473. Settlement proceeds lack closing or legal settlement documentation.
+0474. Insurance claim payment may be restricted to property repairs.
+0475. Cashier's check deposit lacks records showing the originating account.
+0476. Tax-refund deposit amount conflicts with supporting tax records.
+0477. Payroll deposit is unusually large and includes unidentified one-time amounts.
+0478. Peer-to-peer transfers obscure the original source of the money.
+0479. Proceeds from liquidated securities have not reached the verified bank account.
+0480. Returned-deposit reversal reduces usable funds after the source was accepted.
+
+================================================================================
+25. GIFTS, GRANTS, AND DOWN-PAYMENT ASSISTANCE
+================================================================================
+0481. Gift letter omits donor relationship or required transaction details.
+0482. Donor is not an eligible source under the applicable program.
+0483. Gift is actually repayable but presented as nonrepayable.
+0484. Gift funds have not been documented as transferred to the borrower.
+0485. Donor's ability to provide gift funds cannot be verified when required.
+0486. Gift money came from an undisclosed financing arrangement.
+0487. Seller-funded gift arrangement violates applicable program restrictions.
+0488. Down-payment assistance approval is still pending.
+0489. Assistance program imposes an income cap the household exceeds.
+0490. Borrower does not meet an assistance program's household-size rules.
+0491. Assistance funds are not permitted for the selected property or loan type.
+0492. Required homebuyer education for grant eligibility is incomplete.
+0493. Grant commitment expires before the scheduled closing.
+0494. Assistance program requires a first-lien lender not involved in the transaction.
+0495. Repayable grant adds a second lien not included in combined LTV.
+0496. Gift of equity lacks documentation of the permitted family transaction.
+0497. Donor wires funds directly to settlement without an acceptable paper trail.
+0498. Multiple gifts leave one donor's documentation outstanding.
+0499. Borrower contribution requirement is not satisfied after accounting for gifts.
+0500. Grant requires owner occupancy or resale restrictions not addressed in approval.
+
+================================================================================
+26. DOWN PAYMENT, RESERVES, AND CASH-TO-CLOSE CALCULATION
+================================================================================
+0501. Borrower lacks verified funds for the final cash-to-close amount.
+0502. Required post-closing reserves are below the product threshold.
+0503. Closing-cost estimate omitted prepaid insurance and tax escrows.
+0504. Earnest-money deposit was not verified as cleared from an acceptable source.
+0505. Borrower's deposit receipt conflicts with the actual bank withdrawal.
+0506. Sale proceeds from a departing home are not available by settlement.
+0507. Retirement-account loan reduces the assets counted as reserves.
+0508. Asset liquidation triggers taxes or penalties omitted from usable funds.
+0509. Seller concession exceeds the amount allowed for the loan structure.
+0510. Seller credit cannot cover the nonallowable fee specified on the disclosure.
+0511. Rate-lock costs use more cash than the borrower has documented.
+0512. Appraisal shortfall raises the borrower's required investment.
+0513. Borrower planned to use an unapproved unsecured bridge loan for closing.
+0514. Earnest money is held by an unverified party.
+0515. Multiple financed investment properties trigger additional reserve requirements.
+0516. Cash to close changed after the borrower paid off another account.
+0517. Contract down payment is smaller than the qualifying minimum investment.
+0518. Reserve assets are jointly pledged against another loan.
+0519. Builder deposit is not properly credited toward required borrower funds.
+0520. Borrower cannot document liquid funds remaining after proposed debt payoffs.
+
+================================================================================
+27. TITLE, LIENS, VESTING, AND OWNERSHIP HISTORY
+================================================================================
+0521. Title report shows an undisclosed existing mortgage.
+0522. Old mortgage satisfaction was never recorded.
+0523. Judgment lien attaches to the property and requires resolution.
+0524. Seller name does not match the vested owner of record.
+0525. Deed contains an incorrect legal description.
+0526. Property boundary encroachment requires a survey or title resolution.
+0527. Recorded easement limits access to a portion of the parcel.
+0528. Mechanics' lien was filed by a contractor for unpaid work.
+0529. Property is subject to a right of first refusal affecting transfer.
+0530. Seller is a trustee without documented authority to convey title.
+0531. Estate sale lacks required probate or executor authority.
+0532. Ownership is held as tenants in common with an uncooperative co-owner.
+0533. Transfer-on-death deed conflicts with the current vesting report.
+0534. Unrecorded land contract creates competing ownership claims.
+0535. Title policy exception excludes a material access or ownership risk.
+0536. Subordination agreement for an existing junior lien is missing.
+0537. UCC fixture filing creates a lien-priority question.
+0538. Municipal code-enforcement lien appears during title search.
+0539. Property acquired through a recent transfer lacks adequate title seasoning.
+0540. Final vesting documents differ from the borrower structure approved by lender.
+
+================================================================================
+28. APPRAISAL PROCESS, REPORT VALIDITY, AND VALUE
+================================================================================
+0541. Appraised value is below the agreed purchase price.
+0542. Appraisal report was ordered for a different intended use or lender.
+0543. Appraisal date is outside the acceptable validity period.
+0544. Appraiser used an incorrect property address or parcel number.
+0545. Report lists fewer bedrooms than the property is marketed as having.
+0546. Gross living area does not match verified property characteristics.
+0547. Appraiser omits a material addition from the property analysis.
+0548. Highest-and-best-use conclusion raises residential eligibility questions.
+0549. Appraisal has unsupported extraordinary assumptions affecting value.
+0550. Required appraisal photographs are missing or unclear.
+0551. Appraisal identifies deferred maintenance not addressed by the lender.
+0552. Appraiser's certification or state license requires verification.
+0553. Property access limitations prevented full required inspection.
+0554. Appraisal is subject to repairs not completed by the deadline.
+0555. Revised appraisal changes value after the loan was initially approved.
+0556. Appraiser relied on outdated contract terms and missed concessions.
+0557. Appraisal review flags an unsupported adjustment that requires clarification.
+0558. Automated valuation and full appraisal differ enough to trigger additional review.
+0559. Property value includes furniture or business assets not part of real estate.
+0560. Final appraisal report was not delivered within a lender-required timing window.
+
+================================================================================
+29. COMPARABLE SALES, NEIGHBORHOOD, AND MARKETABILITY
+================================================================================
+0561. Appraisal uses comparables outside an acceptable geographic market without support.
+0562. Comparable sales are too old for the lender's market conditions review.
+0563. Appraiser has too few comparable sales for an unusual property type.
+0564. Significant square-footage adjustments lack adequate market support.
+0565. Appraisal comparables differ materially in property condition.
+0566. Local market is declining and valuation requires additional support.
+0567. Property is over-improved relative to surrounding homes.
+0568. Home sits next to a commercial use that may hurt marketability.
+0569. Neighborhood has limited demand for the subject's unusual layout.
+0570. Recent nearby distressed sales create a value-reconciliation concern.
+0571. Lot-size adjustments are inconsistent with market evidence.
+0572. View premiums are unsupported by relevant matched sales.
+0573. Quality-of-construction adjustments are not adequately explained.
+0574. New construction has insufficient closed comparable sales nearby.
+0575. Condo appraisal relies on noncompeting projects without justification.
+0576. Subject property has exceptionally low sales exposure in the market.
+0577. Marketability is limited by a restrictive deed covenant.
+0578. Comparable sales include seller concessions not analyzed in adjustments.
+0579. Appraisal uses listings as if they were closed transactions.
+0580. Recent resale price jump lacks documented renovation or market support.
+
+================================================================================
+30. PROPERTY CONDITION, REPAIRS, AND HABITABILITY
+================================================================================
+0581. Roof damage raises concerns about remaining useful life.
+0582. Active water intrusion is documented in the inspection or appraisal.
+0583. Foundation movement requires an engineering evaluation.
+0584. Missing handrails present a safety concern needing lender review.
+0585. Exposed electrical wiring creates a hazardous condition.
+0586. Heating system does not adequately serve the living area.
+0587. Plumbing is inoperable at the appraisal inspection.
+0588. Property has no functioning kitchen under the relevant program's standards.
+0589. Major construction remains incomplete at the scheduled closing.
+0590. Unpermitted structural alteration raises safety or legality questions.
+0591. Peeling paint triggers further evaluation under applicable standards.
+0592. Mold-like staining prompts required inspection or remediation review.
+0593. Termite damage requires a qualified repair estimate or clearance.
+0594. Septic system inspection identifies a functional failure.
+0595. Well-water testing shows contamination above applicable limits.
+0596. Stairs or deck have visible structural defects.
+0597. Inaccessible attic prevents completion of a required inspection.
+0598. Home has an unsafe or nonfunctioning fireplace or chimney.
+0599. Required repair escrow is not allowed for the selected loan program.
+0600. Contractor completion certificate does not match unfinished repair work.
+
+================================================================================
+31. FLOOD, DISASTER, ENVIRONMENTAL, AND SITE HAZARDS
+================================================================================
+0601. Flood determination identifies a special flood hazard area unexpectedly.
+0602. Flood zone on the insurance quote differs from the official determination.
+0603. Existing flood-insurance coverage is below the required amount.
+0604. Property is in an active disaster area requiring reinspection.
+0605. Post-storm damage may have occurred after the appraisal date.
+0606. Prior flood damage has no documentation of completed remediation.
+0607. Environmental report identifies a nearby leaking underground storage tank.
+0608. Property has an abandoned fuel tank with unresolved contamination concerns.
+0609. Recorded environmental restriction limits residential use.
+0610. Soil instability or landslide exposure requires specialist review.
+0611. Sinkhole claim history raises insurability or structural questions.
+0612. Radon testing exceeds a level that triggers contract or investor review.
+0613. Coastal erosion risk affects property access or insurability.
+0614. Home is near a high-voltage easement with a potential marketability issue.
+0615. Fire-damaged building has not received a completion or clearance report.
+0616. Wildfire exposure causes the insurer to decline standard coverage.
+0617. Flood map amendment requested by borrower is not finalized.
+0618. Private road damaged by a natural disaster lacks a repair plan.
+0619. Property is near a former industrial site without satisfactory environmental evidence.
+0620. Property requires a hazard inspection that cannot be completed before closing.
+
+================================================================================
+32. HOMEOWNERS, FLOOD, WIND, AND OTHER INSURANCE
+================================================================================
+0621. Hazard policy effective date is later than the closing date.
+0622. Insurance binder has incorrect borrower or property information.
+0623. Lender is not shown correctly on the mortgagee clause.
+0624. Dwelling coverage amount fails the lender's replacement-cost standard.
+0625. Policy deductible exceeds the loan investor's permitted limit.
+0626. Windstorm damage is excluded from the basic homeowners policy.
+0627. Required separate wind or hurricane coverage cannot be obtained.
+0628. Insurer requires roof replacement before issuing coverage.
+0629. Prior claims trigger an unexpected policy cancellation or nonrenewal.
+0630. Homeowners policy is written for owner occupancy on an investment property.
+0631. Landlord policy omits a required loss-of-rents provision under the product.
+0632. Condo unit policy does not cover the required interior improvements.
+0633. Master hazard-policy evidence from the association is incomplete.
+0634. Flood policy does not cover all required secured structures.
+0635. Force-placed insurance is incorrectly assumed acceptable for a new closing.
+0636. Insurance quote increases materially after underwriting approval.
+0637. Closing package lacks proof of paid first-year premium when required.
+0638. Insurance effective address does not include the financed accessory structure.
+0639. Builder's risk insurance expires before construction completion.
+0640. Carrier's financial rating falls below the applicable investor standard.
+
+================================================================================
+33. PROPERTY TAXES, HOA DUES, AND ASSESSMENTS
+================================================================================
+0641. Property-tax estimate fails to account for reassessment after purchase.
+0642. New construction has only vacant-land taxes on the current bill.
+0643. Tax escrow was calculated using the wrong municipality.
+0644. Special assessment is omitted from projected monthly housing cost.
+0645. Delinquent real estate taxes must be paid before lien clearance.
+0646. Homestead exemption was assumed to transfer automatically to the buyer.
+0647. HOA monthly dues are higher than disclosed in the listing.
+0648. HOA has a pending special assessment with unknown payment terms.
+0649. Condo unit owner owes unpaid association charges.
+0650. Ground rent was omitted from the monthly payment calculation.
+0651. Transfer fee payable to an association changes closing costs.
+0652. Tax abatement is expiring and the resulting tax increase was not considered.
+0653. Supplemental tax bill creates a new obligation before closing.
+0654. HOA capital contribution fee is not covered by available funds.
+0655. Lender cannot verify current property-tax installment amounts.
+0656. Property receives a classification-specific tax rate that may change after closing.
+0657. Escrow waiver request is not permitted for the chosen loan structure.
+0658. Property has a municipal utility assessment payable through taxes.
+0659. Association dues include a mandatory recreational membership fee not disclosed.
+0660. Tax proration in the contract conflicts with the settlement statement.
+
+================================================================================
+34. CONDOMINIUM PROJECT ELIGIBILITY AND REVIEWS
+================================================================================
+0661. Condominium project has a high percentage of delinquent assessments.
+0662. Association budget does not meet a required review criterion.
+0663. Master insurance coverage is inadequate for the project review.
+0664. Project has active litigation involving structural or financial concerns.
+0665. Association cannot provide the required condo questionnaire.
+0666. Project permits short-term rentals inconsistent with investor eligibility requirements.
+0667. Commercial space percentage raises a program review question.
+0668. A single investor owns too many units for the applicable review standard.
+0669. Newly converted condo has insufficient project completion documentation.
+0670. Condo association has not turned control over as required for the review path.
+0671. Project operates as a hotel or condo-hotel rather than ordinary residential condo.
+0672. Unit is subject to mandatory rental-pool participation.
+0673. Association financial statements reveal major unfunded repair obligations.
+0674. Significant deferred structural maintenance remains unresolved.
+0675. Special assessment relates to a safety or soundness defect.
+0676. Project is ineligible for the selected limited-review process.
+0677. Condo project legal documents contain unacceptable unit-transfer restrictions.
+0678. Insurance deductible allocation creates potential unit-owner exposure.
+0679. Percentage of owner occupancy fails a program-specific project test.
+0680. Association refuses to disclose reserve studies or required engineering reports.
+
+================================================================================
+35. CO-OPS, PUDS, AND COMMON-INTEREST COMMUNITIES
+================================================================================
+0681. Co-op board approval is not obtained before the loan closing deadline.
+0682. Cooperative corporation has an underlying blanket mortgage with problematic terms.
+0683. Co-op maintenance fee contains an unverified special charge.
+0684. Co-op proprietary lease has insufficient remaining term for the loan.
+0685. Co-op share certificate or stock transfer documentation is incomplete.
+0686. Co-op financial statements show persistent operating losses.
+0687. Co-op has restrictive financing policies that conflict with the proposed lien.
+0688. Co-op unit has unauthorized subletting under the corporation's rules.
+0689. Co-op building has an unresolved capital repair assessment.
+0690. Share allocation differs from the amount used in the loan documentation.
+0691. PUD common-area ownership is not clearly established.
+0692. PUD association is responsible for building insurance but policy evidence is missing.
+0693. Private community requires a membership purchase not included in closing funds.
+0694. Planned development has unfinished roads with no maintenance agreement.
+0695. Common-interest community has pending litigation over required amenities.
+0696. Transfer approval from a homeowners' association is delayed.
+0697. Land lease under the community ends before an acceptable term.
+0698. Community's restrictive covenant prohibits the borrower's intended rental activity.
+0699. Cooperative stock is pledged to another lender without release documentation.
+0700. Homeowners' association is inactive and cannot verify governing arrangements.
+
+================================================================================
+36. TWO-TO-FOUR-UNIT PROPERTIES AND ACCESSORY DWELLING UNITS
+================================================================================
+0701. Property unit count differs between tax records and appraisal.
+0702. Duplex conversion lacks required municipal permits.
+0703. Third apartment is not a legally permitted dwelling unit.
+0704. Basement unit lacks a required certificate of occupancy.
+0705. Four-unit property is advertised as five separate rental units.
+0706. Appraiser reports a rooming-house configuration instead of separate apartments.
+0707. Rental schedule omits one occupied unit.
+0708. Unit-level utilities are shared without acceptable expense analysis.
+0709. Mixed owner-occupied and rented spaces create an unsupported rent allocation.
+0710. ADU is not recognized as a lawful dwelling under local rules.
+0711. Detached ADU value is not supported by suitable comparable sales.
+0712. Conversion from single-family to triplex is unfinished.
+0713. Fire separation between units does not meet a documented local requirement.
+0714. Property has no lawful access to a rear rental unit.
+0715. Occupied unit cannot be accessed for a required appraisal inspection.
+0716. Borrower plans to occupy a unit that remains under a tenant lease.
+0717. Individual unit leases conflict with represented apartment sizes.
+0718. Multifamily insurance quote is based on the wrong unit count.
+0719. Property is assessed as commercial despite being represented as residential.
+0720. Building's legal use differs from the intended two-to-four-unit financing category.
+
+================================================================================
+37. MANUFACTURED, MODULAR, AND UNCONVENTIONAL CONSTRUCTION
+================================================================================
+0721. Manufactured home has no verifiable HUD certification labels.
+0722. Manufactured-home data plate is missing and replacement verification is unresolved.
+0723. Home was previously moved from another site contrary to selected program requirements.
+0724. Manufactured home is not permanently affixed to an acceptable foundation.
+0725. Title surrender or real-property conversion documentation is incomplete.
+0726. Land and manufactured home have separate ownership interests.
+0727. Home was constructed before a program's eligible manufacturing date.
+0728. Manufactured-home foundation certification is required but unavailable.
+0729. Modular home is incorrectly classified as manufactured housing.
+0730. Prefabricated home lacks final building-code approval.
+0731. Tiny home is classified as personal property rather than real estate.
+0732. Container-home construction cannot be appraised with acceptable market evidence.
+0733. Dome home's unusual design creates a lender marketability concern.
+0734. Log cabin has construction-specific insurance or appraisal problems.
+0735. Barndominium contains excessive nonresidential utility or workshop area.
+0736. Earth-sheltered home has insufficient suitable comparable properties.
+0737. Mixed construction materials prevent an accurate replacement-cost estimate.
+0738. Property relies on an off-grid power system that needs reliability review.
+0739. Relocated historic dwelling lacks local inspection approval.
+0740. Home is on a chassis without eligible real-estate collateral status.
+
+================================================================================
+38. ACREAGE, RURAL PARCELS, ACCESS, AND LAND USE
+================================================================================
+0741. Parcel acreage exceeds the selected investor's stated limit.
+0742. Property's primary value is land rather than residential improvements.
+0743. Active farming use conflicts with a residential-only loan product.
+0744. Barns and commercial agricultural outbuildings dominate appraised value.
+0745. Property has no recorded legal access to a public road.
+0746. Shared driveway lacks a satisfactory easement agreement.
+0747. Private road has no acceptable ongoing maintenance arrangement.
+0748. Parcel is split by a public road, raising collateral-description concerns.
+0749. Subdivision approval is pending for the land being financed.
+0750. Survey reveals improvements located outside the pledged parcel.
+0751. Well easement is on a neighboring property without recorded rights.
+0752. Septic easement has not been recorded or transferred.
+0753. Timber or mineral rights are severed in a way needing title review.
+0754. Current zoning restricts residential rebuilding after casualty loss.
+0755. Agricultural tax exemption may cause a rollback tax at sale.
+0756. Land is subject to a conservation easement affecting marketability.
+0757. Parcel includes income-producing acreage not accepted by the program.
+0758. Residential lot does not meet minimum local frontage requirements.
+0759. Building site lies within a setback or wetland restriction.
+0760. Property is reachable only by seasonal road access.
+
+================================================================================
+39. OCCUPANCY, PRIMARY RESIDENCE, AND INVESTMENT INTENT
+================================================================================
+0761. Borrower's current and proposed residences make stated owner occupancy questionable.
+0762. Borrower cannot explain a long commute from the new primary residence.
+0763. Claimed primary residence is already under a long-term tenant lease.
+0764. Borrower intends to move in later than the program's required occupancy window.
+0765. Property is advertised for rent despite being represented as owner occupied.
+0766. Utilities or other records suggest a different actual occupant.
+0767. Second-home property is used primarily as a rental business.
+0768. Second home is subject to mandatory management or rental-pool agreements.
+0769. Borrower has multiple recent primary-residence purchases with conflicting plans.
+0770. Family member will occupy the property but borrower has claimed personal occupancy.
+0771. Borrower intends to operate a prohibited commercial enterprise from the house.
+0772. Employment location does not align with the represented occupancy plan.
+0773. Investor requests owner-occupied pricing for a property held by an LLC.
+0774. Borrower's explanation of leaving current home is inconsistent with the application.
+0775. Current home is not listed for sale despite sale proceeds being required.
+0776. Borrower plans to keep a departing residence but omitted its ongoing expenses.
+0777. Military or job relocation circumstances require additional occupancy documentation.
+0778. Property has a leaseback that extends beyond the allowable owner-occupancy timeline.
+0779. Intended use changes from primary home to investment property before closing.
+0780. Borrower cannot support a claimed second-home personal-use pattern when reviewed.
+
+================================================================================
+40. PURCHASE CONTRACT, SELLERS, AND TRANSACTION INTEGRITY
+================================================================================
+0781. Purchase agreement is unsigned by a required party.
+0782. Contract amendment changes the price without updated underwriting.
+0783. Contract lists a seller different from the owner on title.
+0784. Closing date has expired without an executed extension.
+0785. Earnest money amount differs between contract and escrow receipt.
+0786. Seller concessions were not disclosed in the submitted contract package.
+0787. Side agreement provides undisclosed funds or property to the buyer.
+0788. Buyer and seller are related but transaction is marked as arms-length.
+0789. Seller recently acquired property and resale timing needs review.
+0790. Purchase includes personal property that is not separately allocated.
+0791. Home inspection contingency has not been resolved as scheduled.
+0792. Seller refuses required lender-requested repairs.
+0793. Contract obligates buyer to assume an undisclosed liability.
+0794. Builder incentive is not reflected in financing or concession calculations.
+0795. Assignment agreement lacks permission or acceptable documentation.
+0796. Appraisal is based on a contract version later superseded by addendum.
+0797. Unrecorded seller financing affects combined loan-to-value analysis.
+0798. Seller possession after closing conflicts with occupancy requirements.
+0799. Multiple simultaneous contracts create uncertainty over the actual buyer.
+0800. Property sale is conditioned on another transaction that has not closed.
+
+================================================================================
+41. REFINANCE, CASH-OUT, AND OWNERSHIP SEASONING
+================================================================================
+0801. Cash-out refinance exceeds the program's maximum permitted loan-to-value ratio.
+0802. Property ownership duration does not satisfy the refinance seasoning requirement.
+0803. Delayed-financing exception lacks required original acquisition documentation.
+0804. Original purchase funds cannot be documented for the proposed cash-out structure.
+0805. Recent property listing affects refinance eligibility under the investor's rules.
+0806. Existing first-mortgage payoff statement is expired.
+0807. Refinance payoff does not include a current per-diem interest calculation.
+0808. Cash-out request includes ineligible debt or payment arrangements under the product.
+0809. Borrower's ownership interest changed recently without complete transfer records.
+0810. Title was transferred to an entity and back without adequate vesting documentation.
+0811. Property improvement claims lack permits, invoices, or completion evidence.
+0812. Refinance appraisal does not support the requested equity withdrawal.
+0813. Borrower seeks a rate-and-term classification despite receiving excess cash back.
+0814. Current loan has a prepayment penalty not included in proceeds calculations.
+0815. Refinance includes an unverified private mortgage payoff.
+0816. Divorce-related equity buyout lacks the required settlement documentation.
+0817. Existing lien subordination is unavailable for the proposed new first mortgage.
+0818. Seasoning of a recently completed cash-out loan affects another refinance.
+0819. Refinancing borrower was added to title after the relevant loan-purpose event.
+0820. Loan payoff includes advances or charges not reconciled to the lien balance.
+
+================================================================================
+42. HELOCS, SECOND LIENS, AND COMBINED LEVERAGE
+================================================================================
+0821. Combined loan-to-value ratio exceeds the second-lien investor's maximum.
+0822. Existing first mortgage prohibits or restricts subordinate financing.
+0823. HELOC qualifying payment ignores potential fully indexed repayment terms.
+0824. Draw-period expiration creates a payment shock not accounted for in DTI.
+0825. First-lien payoff balance is higher than represented.
+0826. HELOC lender requires a first-lien payment history not available in the file.
+0827. Newly recorded junior lien changes lien priority.
+0828. Existing second mortgage needs a release before new financing can close.
+0829. First-lien lender will not execute a required subordination agreement.
+0830. HELOC line amount is misused instead of the relevant balance or exposure measure.
+0831. Planned simultaneous second lien is missing from combined-LTV calculation.
+0832. Borrower assumes unused HELOC capacity counts as liquid reserves.
+0833. HELOC has a mandatory minimum draw increasing cash-to-close obligations.
+0834. Variable-rate index or margin is missing from the second-lien disclosure.
+0835. Home-equity loan term creates a balloon payment incompatible with product rules.
+0836. Second-lien program disallows the property's occupancy category.
+0837. Existing HELOC is frozen or suspended despite claimed availability.
+0838. HELOC lien is recorded against a different parcel than the intended collateral.
+0839. Subsequent first-lien modification changes terms requiring junior-lien review.
+0840. Equity loan proceeds are earmarked for a purpose restricted by the selected lender.
+
+================================================================================
+43. CONSTRUCTION-TO-PERMANENT AND RENOVATION LOANS
+================================================================================
+0841. Builder lacks a required license or insurance policy.
+0842. General contractor agreement omits a fixed scope of work.
+0843. Construction budget contains unsupported contingency assumptions.
+0844. Cost breakdown excludes sitework or utility connection expenses.
+0845. Plans have not received required building-permit approval.
+0846. Appraisal is based on plans that differ from the signed construction contract.
+0847. Construction timeline exceeds the lender's permitted completion period.
+0848. Borrower lacks funds for required cost overruns or contingency reserves.
+0849. Builder is related to borrower and independent contracting requirements are unmet.
+0850. Land equity is overstated or not adequately documented.
+0851. Construction draw request lacks required inspection confirmation.
+0852. Change order increases project costs without lender approval.
+0853. Contractor requests an advance inconsistent with the draw schedule.
+0854. Material price escalation creates a construction-budget shortfall.
+0855. Mechanic's lien waiver is missing for an earlier draw.
+0856. Construction interest reserve is inadequate for the projected schedule.
+0857. Permanent-loan qualification fails after rate or tax estimate changes.
+0858. Renovation scope includes repairs the product does not permit.
+0859. Completion certificate or final occupancy approval is outstanding.
+0860. Builder warranty or required construction documentation is not available at conversion.
+
+================================================================================
+44. BRIDGE, FIX-AND-FLIP, AND TRANSITIONAL PROPERTY LOANS
+================================================================================
+0861. Borrower's verified flip experience is below lender requirements.
+0862. As-is appraisal value is lower than the bridge-loan advance assumptions.
+0863. After-repair value is unsupported by comparable renovated sales.
+0864. Rehab budget excludes a required structural repair.
+0865. Contractor bid is incomplete or lacks itemized costs.
+0866. Loan-to-cost calculation exceeds the bridge lender's limit.
+0867. Exit strategy assumes a refinance for which the borrower does not qualify.
+0868. Property's resale assumptions rely on unrealistic marketing time.
+0869. Bridge-loan maturity precedes realistic renovation completion.
+0870. Interest reserve is inadequate for the contemplated project duration.
+0871. Permit requirements delay the planned rehab commencement.
+0872. Borrower has concurrent projects beyond the lender's exposure limits.
+0873. Draw reimbursement requires lien waivers the contractor cannot provide.
+0874. Property is too distressed for the proposed financing product.
+0875. Borrower requests a cash-out of equity before permitted seasoning.
+0876. Scope of work changes from cosmetic to structural after inspection.
+0877. Hard-money payoff includes an extension fee not budgeted for closing.
+0878. Contractor is not approved by the bridge lender.
+0879. Project title includes an unresolved construction-related lien.
+0880. DSCR take-out assumptions fail at the projected stabilized rental income.
+
+================================================================================
+45. COMMERCIAL AND MULTIFAMILY FIVE-PLUS UNIT LOANS
+================================================================================
+0881. Property net operating income is lower than represented by the seller.
+0882. Rent roll includes nonpaying or delinquent tenants at full face rent.
+0883. Trailing 12-month expenses are inconsistent with pro forma projections.
+0884. Debt-service coverage fails at the required stressed interest rate.
+0885. Economic occupancy is below the lender's stabilization standard.
+0886. Sponsor net worth is insufficient for the proposed loan structure.
+0887. Sponsor liquidity falls short after required equity contribution.
+0888. Required commercial environmental Phase I assessment identifies an unresolved issue.
+0889. Property condition assessment reveals capital expenditures not in the budget.
+0890. Major tenant lease is expiring without documented renewal prospects.
+0891. Commercial appraisal includes unsupported cap-rate assumptions.
+0892. Lender requires an engineering or seismic report that has not been provided.
+0893. Commercial loan guaranty structure conflicts with the sponsor's entity agreement.
+0894. Building contains an unapproved commercial use affecting underwriting.
+0895. Operating statements omit management fees that the lender must normalize.
+0896. Seller provides a rent roll that does not reconcile with actual collections.
+0897. Property taxes will reset on sale, reducing underwritten net operating income.
+0898. Replacement reserves required by lender push cash flow below coverage levels.
+0899. Existing commercial mortgage has a defeasance or yield-maintenance cost not budgeted.
+0900. Large repair escrow reduces distributable cash and sponsor liquidity.
+
+================================================================================
+46. FHA-SPECIFIC UNDERWRITING AND ELIGIBILITY
+================================================================================
+0901. FHA case number is missing or attached to the wrong property transaction.
+0902. FHA mortgage insurance calculation uses an incorrect base loan amount.
+0903. Borrower's required minimum investment is not met with eligible funds.
+0904. Proposed non-occupant co-borrower arrangement requires eligibility review.
+0905. Property appraisal identifies a condition needing FHA minimum-property review.
+0906. Required FHA amendatory clause is absent from a transaction where applicable.
+0907. Lead-based paint concern is unresolved in an older home under FHA standards.
+0908. FHA identity-of-interest transaction needs analysis of allowable loan terms.
+0909. Borrower has a prior FHA-insured loan that may affect eligibility for another.
+0910. FHA repair completion or acceptable escrow is not documented.
+0911. Manual-underwriting requirement was not addressed after referral results.
+0912. FHA TOTAL Mortgage Scorecard data differs from verified file information.
+0913. FHA gift funds do not satisfy required donor and transfer documentation.
+0914. FHA condominium approval or applicable single-unit approval is unresolved.
+0915. Proposed loan amount exceeds the applicable FHA mortgage limit.
+0916. FHA eligibility review identifies an unresolved federal debt issue.
+0917. FHA borrower occupancy requirement is inconsistent with the planned use.
+0918. FHA-specific treatment of disputed or collection accounts was not applied.
+0919. FHA loan structure includes a fee or concession requiring program review.
+0920. Required FHA new-construction documentation is missing.
+
+================================================================================
+47. VA-SPECIFIC UNDERWRITING AND ELIGIBILITY
+================================================================================
+0921. Veteran's Certificate of Eligibility has not been obtained or confirmed.
+0922. Entitlement calculation was based on an incorrect prior VA loan status.
+0923. Funding-fee exemption status is not verified when needed.
+0924. VA funding fee was calculated using the wrong transaction or use category.
+0925. Residual income falls below the relevant VA guideline without adequate support.
+0926. Household size used in residual-income calculation is incorrect.
+0927. VA appraisal's Notice of Value has not been issued.
+0928. Required VA minimum-property repair remains incomplete.
+0929. Pest or wood-destroying insect inspection evidence is missing where applicable.
+0930. Veteran is unable to establish an acceptable occupancy plan under VA rules.
+0931. Active-duty military income includes allowances that cannot be verified.
+0932. Military orders indicate a relocation affecting current income or occupancy.
+0933. Proposed loan amount or payment requires additional entitlement analysis.
+0934. VA loan assumption or restoration of entitlement has not been documented.
+0935. Surviving-spouse eligibility documentation is incomplete.
+0936. Prior VA loan with an unresolved claim affects entitlement review.
+0937. VA refinance does not satisfy an applicable seasoning or net-benefit test.
+0938. Seller or borrower charges require review against VA allowable-fee rules.
+0939. Joint-loan structure includes a nonveteran and needs separate guaranty analysis.
+0940. VA property has an access or sanitary condition requiring additional review.
+
+================================================================================
+48. USDA GUARANTEED RURAL HOUSING UNDERWRITING
+================================================================================
+0941. Subject address is outside the program's eligible rural geography.
+0942. Household income exceeds the USDA program's area limit.
+0943. Adult household member's income was omitted from the eligibility analysis.
+0944. Income anticipated from a household member was evaluated incorrectly.
+0945. Required household composition documentation is incomplete.
+0946. Property does not meet the USDA program's eligible dwelling requirements.
+0947. Borrower occupancy plan conflicts with USDA primary-residence rules.
+0948. Proposed property has an income-producing feature raising eligibility questions.
+0949. Guaranteed-loan request was submitted with outdated eligibility data.
+0950. USDA guarantee fee was calculated using the wrong applicable terms.
+0951. Household assets generate income that was omitted from eligibility review.
+0952. Program's applicable debt-ratio standard is not satisfied without required support.
+0953. Lender has not obtained the necessary USDA commitment before closing.
+0954. Site has an access, water, or wastewater issue affecting eligibility.
+0955. Existing property contains a nonresidential use requiring USDA review.
+0956. Applicant has an unresolved federal debt or other program eligibility flag.
+0957. Home is not considered modest or otherwise eligible under program-specific criteria.
+0958. Borrower does not meet the applicable occupancy or property-ownership conditions.
+0959. Documentation of household income deductions or allowances is incomplete.
+0960. USDA underwriting findings conflict with the verified application data.
+
+================================================================================
+49. JUMBO, PORTFOLIO, AND NON-QM INVESTOR OVERLAYS
+================================================================================
+0961. Jumbo program requires more reserves than the borrower has documented.
+0962. High-balance transaction exceeds the selected investor's maximum exposure.
+0963. Portfolio lender applies a stricter minimum credit score than expected.
+0964. Investor requires a second appraisal for the property's value tier.
+0965. Non-QM program's maximum DTI is lower for the actual credit profile.
+0966. Investor does not accept the submitted alternative income documentation type.
+0967. Stated-assets approach is not permitted by the selected product's underwriting standards.
+0968. Non-QM mortgage history standards are not met for a recent housing late.
+0969. Recent credit event does not satisfy the program's seasoning matrix.
+0970. Non-warrantable condo is outside the lender's specific exception criteria.
+0971. Cash-out cap decreases because the property is classified as an investment.
+0972. Foreign-national product requires higher borrower equity contribution.
+0973. Borrower has too many financed properties for the chosen investor overlay.
+0974. Jumbo investor requires additional self-employment liquidity analysis.
+0975. Asset-depletion income was calculated using an incorrect product divisor.
+0976. Non-QM loan size falls below the investor's minimum note amount.
+0977. Interest-only option is not offered for the borrower's score or loan-to-value tier.
+0978. Lender imposes a geographic restriction on the property's state or county.
+0979. Recent mortgage forbearance violates the selected portfolio program's eligibility window.
+0980. Investor declines an otherwise eligible loan due to aggregate concentration limits.
+
+================================================================================
+50. AUTOMATED UNDERWRITING, DOCUMENT INTEGRITY, COMPLIANCE, AND CLOSING
+================================================================================
+0981. Automated underwriting system recommendation changes after resubmission.
+0982. Loan application data do not match supporting income or asset documents.
+0983. Required approval condition remains uncleared at the scheduled close.
+0984. Underwriting approval expires before the revised closing date.
+0985. Missing pages make an uploaded legal document unusable.
+0986. Electronic document appears altered or contains inconsistent metadata.
+0987. Credit, income, or asset documents become stale under lender standards.
+0988. Final loan terms differ from the terms evaluated in underwriting.
+0989. Required re-disclosure timing is not satisfied after a material loan change.
+0990. Closing Disclosure figures differ from the approved loan worksheet.
+0991. Appraisal delivery or acknowledgment timing requirement is unresolved.
+0992. Lender cannot complete required anti-fraud or sanctions screening review.
+0993. Flood insurance and escrow information are missing from final closing instructions.
+0994. Mortgage note, deed of trust, or riders omit a required signer.
+0995. Vesting on closing documents is inconsistent with title commitment.
+0996. Final verification identifies a new adverse change in borrower circumstances.
+0997. Lock expiration occurs before funding and revised terms need approval.
+0998. Settlement statement shows an unauthorized disbursement or unexplained fee.
+0999. Funding conditions require a corrected document that has not been executed.
+1000. Closing package cannot be delivered or signed within a mandatory timing window.
+
+REFERENCE STARTING POINTS (NOT EXHAUSTIVE)
+Fannie Mae Selling Guide: https://selling-guide.fanniemae.com/
+HUD FHA Handbook 4000.1: https://www.hud.gov/hud-partners/single-family-handbook-4000-1
+VA Lenders Handbook: https://www.benefits.va.gov/warms/pam26_7.asp
+USDA SFH Guaranteed Loan Handbook: https://www.rd.usda.gov/resources/directives/handbooks
+Individual non-QM, DSCR, bridge, jumbo, and commercial guidelines vary by investor.
