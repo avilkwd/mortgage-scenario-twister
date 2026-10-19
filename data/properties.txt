@@ -1,0 +1,163 @@
+150 Property & Home Types
+
+== Single-Family Homes ==
+1. Detached single-family home
+2. Starter home
+3. Custom home
+4. Tract home
+5. Spec home
+6. New construction home
+7. Luxury estate
+8. Mansion
+9. Bungalow
+10. Ranch
+11. Split-level
+12. Cape Cod
+13. Colonial
+14. Victorian
+15. Craftsman
+16. Tudor
+17. Mediterranean
+18. Mission-style
+19. Adobe home
+20. Mid-century modern
+21. Contemporary
+22. Modern farmhouse
+23. Farmhouse
+24. Cottage
+25. Shotgun house
+26. A-frame
+27. Chalet
+28. Log cabin
+29. Cabin
+30. Lake house
+31. Beach house
+32. Stilt house
+33. Zero-lot-line home
+34. Patio home
+35. Cluster home
+36. Carriage house
+
+== Attached & Multi-Unit Residential ==
+37. Townhouse
+38. Rowhouse
+39. Brownstone
+40. Duplex
+41. Triplex
+42. Fourplex (quadplex)
+43. Two-family home
+44. Three-family home
+45. Mother-daughter home
+46. Multigenerational home
+47. Garden apartment
+48. Walk-up apartment
+49. Mid-rise apartment
+50. High-rise apartment
+51. Apartment complex (5+ units)
+52. Condominium
+53. Condo-hotel (condotel)
+54. Cooperative (co-op)
+55. Loft
+56. Penthouse
+57. Studio apartment
+58. Basement apartment
+59. Accessory dwelling unit (ADU)
+60. In-law suite
+61. Granny flat
+62. Mixed-use building with apartments
+63. Live/work unit
+64. Student housing
+65. Senior apartments
+66. Single-room occupancy (SRO)
+
+== Manufactured, Alternative & Unique Homes ==
+67. Manufactured home
+68. Mobile home
+69. Modular home
+70. Prefab home
+71. Kit home
+72. Tiny home
+73. Tiny home on wheels
+74. Container home
+75. Barndominium
+76. Converted barn
+77. Converted church
+78. Converted warehouse
+79. Yurt
+80. Treehouse
+81. Houseboat
+82. Floating home
+83. Geodesic dome
+84. Earthship
+85. Off-grid home
+86. Park model RV
+
+== Ownership, Occupancy & Financing Categories ==
+87. Primary residence
+88. Second home
+89. Vacation home
+90. Investment property
+91. Non-owner-occupied rental
+92. Short-term rental
+93. Long-term rental
+94. Owner-occupied multifamily
+95. Deed-restricted affordable home
+96. HUD home
+97. REO (bank-owned) property
+98. Foreclosure
+99. Pre-foreclosure
+100. Short sale
+101. Auction property
+102. Fixer-upper
+103. Distressed property
+104. Teardown
+105. Estate sale property
+106. Probate property
+107. Leasehold property
+108. Timeshare
+109. Fractional ownership property
+110. Land-lease community home
+111. HOA community home
+112. 55+ community home
+113. Gated community home
+114. Planned unit development (PUD)
+115. Historic-designated property
+
+== Land & Rural ==
+116. Vacant residential lot
+117. Raw land
+118. Infill lot
+119. Subdivided lot
+120. Acreage
+121. Farm
+122. Ranch property
+123. Hobby farm
+124. Equestrian property
+125. Orchard
+126. Vineyard
+127. Timberland
+128. Hunting land
+129. Waterfront land
+130. Recreational land
+
+== Commercial & Special Purpose ==
+131. Retail storefront
+132. Strip mall
+133. Shopping center
+134. Office building
+135. Medical office building
+136. Warehouse
+137. Industrial flex space
+138. Self-storage facility
+139. Hotel
+140. Motel
+141. Bed and breakfast
+142. Restaurant property
+143. Daycare building
+144. Assisted living facility
+145. Nursing home
+146. Mobile home park
+147. RV park
+148. Campground
+149. Church property
+150. Mixed-use commercial building
