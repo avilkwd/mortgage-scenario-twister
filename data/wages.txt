@@ -1,0 +1,167 @@
+150 Wage & Pay Types
+
+== Base Pay ==
+1. Hourly wage
+2. Annual salary
+3. Biweekly salary
+4. Monthly salary
+5. Daily rate
+6. Minimum wage
+7. Tipped minimum wage
+8. Training wage
+9. Youth minimum wage
+10. Prevailing wage
+11. Living wage
+12. Union scale wage
+13. Piece-rate pay
+14. Per-diem pay
+15. Per-mile pay (trucking)
+16. Per-delivery pay
+17. Per-project fee
+18. Retainer fee
+19. Flat-rate pay (auto repair)
+20. Session rate
+21. Per-visit pay (home health)
+22. Per-class pay (adjunct teaching)
+23. Stipend
+24. Exempt salary
+25. Non-exempt hourly pay
+
+== Overtime & Premium Pay ==
+26. Overtime (time-and-a-half)
+27. Double time
+28. Daily overtime
+29. Weekly overtime
+30. Holiday pay
+31. Holiday premium pay
+32. Weekend premium
+33. Shift differential
+34. Night shift differential
+35. Evening shift differential
+36. Split-shift premium
+37. Hazard pay
+38. Combat pay
+39. Hardship pay
+40. On-call pay
+41. Call-back pay
+42. Standby pay
+43. Reporting-time pay
+44. Spread-of-hours pay
+45. Premium pay for missed meal breaks
+46. Lead pay
+47. Acting/out-of-class pay
+48. Bilingual pay
+49. Certification pay
+50. Education incentive pay
+51. Longevity pay
+52. Step increase pay
+53. Merit increase
+
+== Variable & Incentive Pay ==
+54. Commission
+55. Straight commission
+56. Base plus commission
+57. Draw against commission
+58. Recoverable draw
+59. Residual commission
+60. Override commission
+61. Bonus
+62. Signing bonus
+63. Retention bonus
+64. Performance bonus
+65. Annual bonus
+66. Holiday bonus
+67. Referral bonus
+68. Project completion bonus
+69. Safety bonus
+70. Attendance bonus
+71. Discretionary bonus
+72. Non-discretionary bonus
+73. Production bonus
+74. Quota bonus
+75. Profit sharing
+76. Gainsharing
+77. Incentive pay
+78. Sales incentive (SPIFF)
+
+== Tips & Service Income ==
+79. Cash tips
+80. Credit card tips
+81. Tip pooling
+82. Tip credit
+83. Service charges
+84. Gratuities (auto-added)
+85. Tip-outs
+
+== Equity & Deferred Compensation ==
+86. Stock options (ISOs)
+87. Stock options (NSOs)
+88. Restricted stock units (RSUs)
+89. Restricted stock awards
+90. Employee stock purchase plan (ESPP)
+91. Phantom stock
+92. Stock appreciation rights
+93. Carried interest
+94. Deferred compensation
+95. 401(k) employer match
+96. Pension benefits
+97. Profit-sharing plan contributions
+
+== Paid Leave & Time-Based Pay ==
+98. Paid time off (PTO)
+99. Vacation pay
+100. Sick pay
+101. Bereavement pay
+102. Jury duty pay
+103. Military leave pay
+104. Parental leave pay
+105. Maternity leave pay
+106. Paternity leave pay
+107. Family leave pay
+108. Disability pay (short-term)
+109. Disability pay (long-term)
+110. Sabbatical pay
+111. PTO cash-out
+112. Vacation payout at termination
+
+== Allowances & Reimbursements ==
+113. Housing allowance
+114. Basic allowance for housing (BAH)
+115. Cost-of-living allowance (COLA)
+116. Car allowance
+117. Mileage reimbursement
+118. Travel per diem
+119. Meal allowance
+120. Uniform allowance
+121. Tool allowance
+122. Phone allowance
+123. Remote work stipend
+124. Relocation pay
+125. Education assistance
+126. Tuition reimbursement
+127. Clergy housing allowance
+
+== Separation & Other Pay ==
+128. Severance pay
+129. Pay in lieu of notice
+130. Final paycheck
+131. Back pay
+132. Front pay
+133. Retroactive pay
+134. Settlement pay
+135. Garnished wages
+136. Payday advance
+137. Wage advance (earned wage access)
+138. Workers' compensation pay
+139. Unemployment benefits
+140. Supplemental unemployment benefits
+141. Royalties
+142. Honorariums
+143. Speaking fees
+144. Board director fees
+145. Self-employment income
+146. 1099 contractor pay
+147. Freelance project pay
+148. Gig platform earnings
+149. In-kind compensation
+150. Room and board as wages
