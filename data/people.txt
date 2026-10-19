@@ -1,0 +1,1077 @@
+1,000 DIFFERENT GROUPS OF PEOPLE IN THE UNITED STATES
+Organized into 25 categories with 40 groups each.
+
+01. AGE AND LIFE STAGES
+-----------------------
+0001. Preschool-age children
+0002. Elementary-school-age children
+0003. Middle-school-age children
+0004. High-school-age teenagers
+0005. Young adults ages 18–20
+0006. Adults in their early twenties
+0007. Adults in their late twenties
+0008. Adults in their early thirties
+0009. Adults in their late thirties
+0010. Adults in their forties
+0011. Adults in their fifties
+0012. Adults in their sixties
+0013. Adults in their seventies
+0014. Adults age 80 and older
+0015. People turning 18 this year
+0016. First-time voters
+0017. Recent high school graduates
+0018. Recent college graduates
+0019. People entering the workforce
+0020. People changing careers in their thirties
+0021. People changing careers in midlife
+0022. People returning to school as adults
+0023. People preparing for retirement
+0024. Newly retired adults
+0025. People working after retirement
+0026. People celebrating their first wedding anniversary
+0027. Newly engaged couples
+0028. Newlyweds
+0029. First-time parents
+0030. Parents of toddlers
+0031. Parents of teenagers
+0032. Empty nesters
+0033. Grandparents raising grandchildren
+0034. First-time grandparents
+0035. Adults caring for aging parents
+0036. People moving out on their own
+0037. Adults returning to their hometowns
+0038. People relocating for a new job
+0039. People taking a gap year
+0040. People starting a second career
+
+02. FAMILY AND HOUSEHOLD TYPES
+------------------------------
+0041. Single-person households
+0042. Married couples without children
+0043. Married couples with children
+0044. Unmarried couples living together
+0045. Single mothers
+0046. Single fathers
+0047. Stay-at-home mothers
+0048. Stay-at-home fathers
+0049. Dual-income households
+0050. Single-income families
+0051. Blended families
+0052. Stepparents
+0053. Families with adopted children
+0054. Foster parents
+0055. Prospective adoptive parents
+0056. Multigenerational households
+0057. Adult siblings sharing a home
+0058. Roommates sharing apartments
+0059. Families with twins
+0060. Families with triplets or more
+0061. Families with four or more children
+0062. Families with a newborn
+0063. Families with school-age children
+0064. Families with children in college
+0065. Families with adult children living at home
+0066. Long-distance couples
+0067. Military families
+0068. Gold Star families
+0069. Families of first responders
+0070. Homeschooling families
+0071. Co-parenting households
+0072. Grandparent-led households
+0073. Families caring for a disabled relative
+0074. Families with a stay-at-home caregiver
+0075. Child-free couples
+0076. Single adults without children
+0077. Widowed adults living alone
+0078. Divorced parents
+0079. Families with children under age five
+0080. Households supporting relatives overseas
+
+03. EDUCATION AND LEARNING
+--------------------------
+0081. Public elementary school teachers
+0082. Public middle school teachers
+0083. Public high school teachers
+0084. Private school teachers
+0085. Preschool teachers
+0086. Special education teachers
+0087. Substitute teachers
+0088. School principals
+0089. School counselors
+0090. School librarians
+0091. School nurses
+0092. Teacher assistants
+0093. School bus monitors
+0094. After-school program coordinators
+0095. School district administrators
+0096. Parent-teacher association members
+0097. Public school students
+0098. Private school students
+0099. Charter school students
+0100. Homeschooled students
+0101. Community college students
+0102. Four-year university undergraduates
+0103. Graduate students
+0104. Doctoral students
+0105. Trade school students
+0106. Adult literacy learners
+0107. English-language learners
+0108. GED preparation students
+0109. Online degree students
+0110. Part-time college students
+0111. Student-athletes
+0112. First-generation college students
+0113. International students studying in the U.S.
+0114. College resident assistants
+0115. College admissions counselors
+0116. University professors
+0117. Adjunct faculty members
+0118. Academic tutors
+0119. Adult education instructors
+0120. Continuing education students
+
+04. HEALTHCARE AND MEDICINE
+---------------------------
+0121. Family medicine physicians
+0122. Pediatricians
+0123. Internal medicine physicians
+0124. Emergency room physicians
+0125. Surgeons
+0126. Anesthesiologists
+0127. Psychiatrists
+0128. Obstetricians and gynecologists
+0129. Dermatologists
+0130. Radiologists
+0131. Registered nurses
+0132. Licensed practical nurses
+0133. Nurse practitioners
+0134. Physician assistants
+0135. Certified nursing assistants
+0136. Home health aides
+0137. Dentists
+0138. Dental hygienists
+0139. Dental assistants
+0140. Orthodontists
+0141. Pharmacists
+0142. Pharmacy technicians
+0143. Physical therapists
+0144. Occupational therapists
+0145. Speech-language pathologists
+0146. Respiratory therapists
+0147. Radiologic technologists
+0148. Diagnostic medical sonographers
+0149. Medical laboratory scientists
+0150. Phlebotomists
+0151. Paramedics
+0152. Emergency medical technicians
+0153. Midwives
+0154. Dietitians
+0155. Optometrists
+0156. Opticians
+0157. Audiologists
+0158. Chiropractors
+0159. Medical receptionists
+0160. Hospital patient advocates
+
+05. SCIENCE, ENGINEERING, AND RESEARCH
+--------------------------------------
+0161. Civil engineers
+0162. Mechanical engineers
+0163. Electrical engineers
+0164. Chemical engineers
+0165. Aerospace engineers
+0166. Biomedical engineers
+0167. Environmental engineers
+0168. Industrial engineers
+0169. Structural engineers
+0170. Materials engineers
+0171. Robotics engineers
+0172. Geotechnical engineers
+0173. Nuclear engineers
+0174. Marine engineers
+0175. Transportation engineers
+0176. Research chemists
+0177. Research physicists
+0178. Molecular biologists
+0179. Microbiologists
+0180. Geneticists
+0181. Neuroscientists
+0182. Epidemiologists
+0183. Biostatisticians
+0184. Geologists
+0185. Meteorologists
+0186. Oceanographers
+0187. Astronomers
+0188. Ecologists
+0189. Wildlife biologists
+0190. Conservation scientists
+0191. Archaeologists
+0192. Anthropologists
+0193. Sociologists
+0194. Economists
+0195. Political science researchers
+0196. Laboratory technicians
+0197. Clinical research coordinators
+0198. University postdoctoral researchers
+0199. Science museum educators
+0200. Research grant administrators
+
+06. CONSTRUCTION AND SKILLED TRADES
+-----------------------------------
+0201. Residential carpenters
+0202. Commercial carpenters
+0203. Electricians
+0204. Residential plumbers
+0205. Commercial plumbers
+0206. HVAC installers
+0207. HVAC service technicians
+0208. Roofers
+0209. Concrete finishers
+0210. Brick masons
+0211. Stone masons
+0212. Drywall installers
+0213. Painters
+0214. Welders
+0215. Ironworkers
+0216. Sheet metal workers
+0217. Glaziers
+0218. Tile setters
+0219. Flooring installers
+0220. Cabinetmakers
+0221. Insulation installers
+0222. Scaffold builders
+0223. Heavy equipment operators
+0224. Crane operators
+0225. Construction laborers
+0226. Construction site supervisors
+0227. General contractors
+0228. Residential remodelers
+0229. Home inspectors
+0230. Land surveyors
+0231. Elevator mechanics
+0232. Fire sprinkler installers
+0233. Solar panel installers
+0234. Wind turbine technicians
+0235. Locksmiths
+0236. Appliance repair technicians
+0237. Auto mechanics
+0238. Diesel mechanics
+0239. Small-engine repair technicians
+0240. Building maintenance technicians
+
+07. BUSINESS AND OFFICE CAREERS
+-------------------------------
+0241. Chief executive officers
+0242. Chief operating officers
+0243. Human resources managers
+0244. Recruiters
+0245. Payroll specialists
+0246. Office managers
+0247. Administrative assistants
+0248. Executive assistants
+0249. Project managers
+0250. Product managers
+0251. Operations analysts
+0252. Management consultants
+0253. Business analysts
+0254. Procurement specialists
+0255. Supply chain planners
+0256. Sales representatives
+0257. Sales managers
+0258. Account managers
+0259. Customer success managers
+0260. Customer service representatives
+0261. Call center agents
+0262. Marketing managers
+0263. Brand strategists
+0264. Public relations specialists
+0265. Market researchers
+0266. Advertising account executives
+0267. Event planners
+0268. Corporate trainers
+0269. Learning and development specialists
+0270. Business development representatives
+0271. Contract managers
+0272. Executive coaches
+0273. Compliance analysts
+0274. Quality assurance managers
+0275. Facilities managers
+0276. Corporate communications specialists
+0277. Data entry clerks
+0278. Receptionists
+0279. Internal auditors
+0280. Small-business bookkeepers
+
+08. FINANCE, INSURANCE, AND LEGAL CAREERS
+-----------------------------------------
+0281. Certified public accountants
+0282. Tax preparers
+0283. Financial advisors
+0284. Financial planners
+0285. Investment analysts
+0286. Portfolio managers
+0287. Bank tellers
+0288. Branch bank managers
+0289. Credit analysts
+0290. Commercial loan officers
+0291. Mortgage loan officers
+0292. Mortgage loan processors
+0293. Mortgage underwriters
+0294. Real estate appraisers
+0295. Insurance agents
+0296. Insurance underwriters
+0297. Claims adjusters
+0298. Actuaries
+0299. Risk managers
+0300. Debt counselors
+0301. Estate planning attorneys
+0302. Criminal defense attorneys
+0303. Prosecutors
+0304. Family law attorneys
+0305. Immigration attorneys
+0306. Corporate attorneys
+0307. Public defenders
+0308. Paralegals
+0309. Legal secretaries
+0310. Court reporters
+0311. Judges
+0312. Court clerks
+0313. Mediators
+0314. Arbitrators
+0315. Notaries public
+0316. Title examiners
+0317. Escrow officers
+0318. Trust administrators
+0319. Financial compliance officers
+0320. Forensic accountants
+
+09. GOVERNMENT, SAFETY, AND PUBLIC SERVICE
+------------------------------------------
+0321. Municipal government employees
+0322. State government employees
+0323. Federal civil servants
+0324. Postal service workers
+0325. Public librarians
+0326. Public transit planners
+0327. Urban planners
+0328. City council members
+0329. County commissioners
+0330. School board members
+0331. Public health inspectors
+0332. Building code inspectors
+0333. Environmental health officers
+0334. Police officers
+0335. Detectives
+0336. Sheriff's deputies
+0337. Correctional officers
+0338. Probation officers
+0339. Firefighters
+0340. Fire marshals
+0341. Emergency dispatchers
+0342. Emergency management coordinators
+0343. Disaster response volunteers
+0344. Park rangers
+0345. National park interpreters
+0346. Military active-duty personnel
+0347. Military reservists
+0348. National Guard members
+0349. Military veterans
+0350. Coast Guard personnel
+0351. Foreign service officers
+0352. Public policy analysts
+0353. Social workers
+0354. Child protective services workers
+0355. Case managers at nonprofits
+0356. Community health workers
+0357. Public defenders' investigators
+0358. Election poll workers
+0359. Census field workers
+0360. Municipal sanitation workers
+
+10. FOOD, LODGING, AND RETAIL WORKERS
+-------------------------------------
+0361. Restaurant chefs
+0362. Line cooks
+0363. Prep cooks
+0364. Restaurant servers
+0365. Bartenders
+0366. Baristas
+0367. Bakers
+0368. Pastry chefs
+0369. Butchers
+0370. Fishmongers
+0371. Grocery store cashiers
+0372. Grocery department managers
+0373. Supermarket stock clerks
+0374. Farmers market vendors
+0375. Food truck operators
+0376. Caterers
+0377. Restaurant owners
+0378. Restaurant hosts
+0379. Dishwashers
+0380. Hotel front desk agents
+0381. Hotel housekeepers
+0382. Hotel concierges
+0383. Hotel managers
+0384. Resort activity coordinators
+0385. Tour guides
+0386. Travel agents
+0387. Retail sales associates
+0388. Retail store managers
+0389. Visual merchandisers
+0390. Department store buyers
+0391. Thrift store employees
+0392. Convenience store clerks
+0393. Gas station attendants
+0394. Florists
+0395. Hair stylists
+0396. Barbers
+0397. Nail technicians
+0398. Estheticians
+0399. Massage therapists
+0400. Laundry and dry-cleaning workers
+
+11. TRANSPORTATION, DELIVERY, AND LOGISTICS
+-------------------------------------------
+0401. Long-haul truck drivers
+0402. Local delivery truck drivers
+0403. Bus drivers
+0404. School bus drivers
+0405. Taxi drivers
+0406. Rideshare drivers
+0407. Chauffeurs
+0408. Limousine drivers
+0409. Ambulance drivers
+0410. Freight train engineers
+0411. Passenger train conductors
+0412. Subway operators
+0413. Light-rail operators
+0414. Airline pilots
+0415. Flight attendants
+0416. Air traffic controllers
+0417. Aircraft mechanics
+0418. Airport ground crew workers
+0419. Airport baggage handlers
+0420. Merchant mariners
+0421. Tugboat operators
+0422. Ferry captains
+0423. Commercial fishing vessel crews
+0424. Port crane operators
+0425. Dockworkers
+0426. Warehouse pickers
+0427. Forklift operators
+0428. Warehouse supervisors
+0429. Freight brokers
+0430. Logistics coordinators
+0431. Dispatchers for trucking companies
+0432. Bicycle couriers
+0433. Motorcycle couriers
+0434. Package delivery drivers
+0435. Postal delivery carriers
+0436. Moving company crews
+0437. Moving company estimators
+0438. Car rental agents
+0439. Parking attendants
+0440. Traffic control flaggers
+
+12. FARMING, ANIMALS, AND ENVIRONMENTAL WORK
+--------------------------------------------
+0441. Corn farmers
+0442. Soybean farmers
+0443. Wheat farmers
+0444. Rice farmers
+0445. Fruit orchard growers
+0446. Vegetable farmers
+0447. Dairy farmers
+0448. Beef cattle ranchers
+0449. Sheep farmers
+0450. Poultry farmers
+0451. Pig farmers
+0452. Beekeepers
+0453. Aquaculture farmers
+0454. Greenhouse growers
+0455. Nursery plant growers
+0456. Vineyard workers
+0457. Farm equipment operators
+0458. Agricultural extension agents
+0459. Agronomists
+0460. Soil scientists
+0461. Irrigation technicians
+0462. Farm managers
+0463. Agricultural equipment dealers
+0464. Foresters
+0465. Timber harvesters
+0466. Wildland firefighters
+0467. Commercial fishers
+0468. Fish hatchery technicians
+0469. Veterinarians
+0470. Veterinary technicians
+0471. Animal shelter workers
+0472. Dog trainers
+0473. Pet groomers
+0474. Zookeepers
+0475. Wildlife rehabilitators
+0476. Animal rescue volunteers
+0477. Recycling plant workers
+0478. Wastewater treatment operators
+0479. Water quality technicians
+0480. Environmental restoration workers
+
+13. ARTS, MEDIA, AND ENTERTAINMENT CAREERS
+------------------------------------------
+0481. Novelists
+0482. Poets
+0483. Screenwriters
+0484. Journalists
+0485. News editors
+0486. Magazine editors
+0487. Copywriters
+0488. Technical writers
+0489. Graphic designers
+0490. Illustrators
+0491. Fine art painters
+0492. Sculptors
+0493. Photographers
+0494. Photojournalists
+0495. Videographers
+0496. Film directors
+0497. Film producers
+0498. Cinematographers
+0499. Film editors
+0500. Animators
+0501. Voice actors
+0502. Stage actors
+0503. Musical theater performers
+0504. Stand-up comedians
+0505. Musicians
+0506. Singers
+0507. Songwriters
+0508. Music producers
+0509. Sound engineers
+0510. Radio hosts
+0511. Podcast hosts
+0512. Television presenters
+0513. News anchors
+0514. Broadcast camera operators
+0515. Set designers
+0516. Costume designers
+0517. Fashion designers
+0518. Interior designers
+0519. Museum curators
+0520. Art gallery owners
+
+14. ENTREPRENEURS AND INDEPENDENT WORKERS
+-----------------------------------------
+0521. Startup founders
+0522. Family business owners
+0523. Franchise owners
+0524. Independent consultants
+0525. Freelance writers
+0526. Freelance designers
+0527. Freelance programmers
+0528. Freelance photographers
+0529. Independent bookkeepers
+0530. Independent real estate agents
+0531. Self-employed handymen
+0532. Self-employed cleaners
+0533. Mobile car detailers
+0534. Mobile notaries
+0535. Personal shoppers
+0536. Personal chefs
+0537. Independent fitness trainers
+0538. Private music teachers
+0539. Private language tutors
+0540. Daycare business owners
+0541. E-commerce store owners
+0542. Online marketplace sellers
+0543. Handmade craft sellers
+0544. Farm stand operators
+0545. Pop-up shop owners
+0546. Subscription box business owners
+0547. Virtual assistants
+0548. Independent translators
+0549. Social media consultants
+0550. Independent web developers
+0551. Part-time side-business owners
+0552. Home-based business owners
+0553. Solo law practitioners
+0554. Independent insurance brokers
+0555. Private practice therapists
+0556. Owner-operator truckers
+0557. Self-published authors
+0558. Professional public speakers
+0559. Wedding planners
+0560. Independent business coaches
+
+15. HOME, PROPERTY, AND HOUSING
+-------------------------------
+0561. First-time homebuyers
+0562. Repeat homebuyers
+0563. Renters in apartment buildings
+0564. Renters in single-family homes
+0565. Condominium owners
+0566. Townhouse owners
+0567. Single-family homeowners
+0568. Mobile home residents
+0569. Manufactured home owners
+0570. Cooperative apartment residents
+0571. Homeowners with mortgages
+0572. Mortgage-free homeowners
+0573. Homeowners considering refinancing
+0574. Homeowners with home equity lines
+0575. Landlords with one rental property
+0576. Landlords with multiple rental properties
+0577. Short-term rental hosts
+0578. Long-term rental hosts
+0579. Real estate investors
+0580. House flippers
+0581. Buy-and-hold property investors
+0582. Commercial property owners
+0583. Multifamily building owners
+0584. Vacation home owners
+0585. Second-home buyers
+0586. People searching for rental housing
+0587. People on affordable housing waitlists
+0588. Public housing residents
+0589. Housing voucher recipients
+0590. People living in student dormitories
+0591. People living in senior communities
+0592. Residents of assisted living facilities
+0593. Residents of retirement communities
+0594. Tiny-house residents
+0595. People building custom homes
+0596. People renovating older homes
+0597. Homeowners planning additions
+0598. People downsizing their homes
+0599. People relocating to a different state
+0600. First-time landlords
+
+16. WORK PATTERNS AND ECONOMIC CIRCUMSTANCES
+--------------------------------------------
+0601. Full-time salaried workers
+0602. Full-time hourly workers
+0603. Part-time employees
+0604. Seasonal workers
+0605. Temporary agency workers
+0606. Contract workers
+0607. Union-represented employees
+0608. Nonunion employees
+0609. Remote-first employees
+0610. Hybrid office workers
+0611. Fully on-site workers
+0612. Night-shift workers
+0613. Early-morning shift workers
+0614. Rotating-shift workers
+0615. Weekend-only workers
+0616. On-call workers
+0617. Workers with multiple jobs
+0618. Workers returning from parental leave
+0619. Workers on sabbatical
+0620. Workers completing apprenticeships
+0621. Workers in paid internships
+0622. Workers in unpaid internships
+0623. Unemployed job seekers
+0624. Recently laid-off workers
+0625. People reentering the workforce
+0626. Stay-at-home caregivers seeking work
+0627. Retirees seeking part-time work
+0628. Workers seeking promotions
+0629. Workers planning career changes
+0630. People starting vocational training
+0631. Minimum-wage workers
+0632. Commission-based sales workers
+0633. Tip-earning service workers
+0634. Freelancers between assignments
+0635. Business owners hiring their first employee
+0636. Employees at nonprofit organizations
+0637. Employees at family-owned businesses
+0638. Employees at large corporations
+0639. Employees at government contractors
+0640. People with flexible work schedules
+
+17. SPORTS AND FITNESS PARTICIPANTS
+-----------------------------------
+0641. Recreational runners
+0642. Marathon runners
+0643. Trail runners
+0644. Competitive sprinters
+0645. Road cyclists
+0646. Mountain bikers
+0647. Swimmers
+0648. Triathletes
+0649. Tennis players
+0650. Pickleball players
+0651. Basketball players
+0652. Soccer players
+0653. Baseball players
+0654. Softball players
+0655. American football players
+0656. Volleyball players
+0657. Golfers
+0658. Ice hockey players
+0659. Field hockey players
+0660. Lacrosse players
+0661. Wrestlers
+0662. Boxers
+0663. Mixed martial arts practitioners
+0664. Karate practitioners
+0665. Brazilian jiu-jitsu practitioners
+0666. Powerlifters
+0667. Olympic weightlifters
+0668. Bodybuilders
+0669. CrossFit participants
+0670. Yoga practitioners
+0671. Pilates practitioners
+0672. Dance fitness participants
+0673. Group exercise class attendees
+0674. Personal training clients
+0675. Rock climbing gym members
+0676. Rowers
+0677. Fencers
+0678. Archers
+0679. Gymnastics participants
+0680. Adult recreational sports league members
+
+18. OUTDOOR RECREATION AND TRAVEL
+---------------------------------
+0681. Day hikers
+0682. Backpackers
+0683. Campground campers
+0684. Backcountry campers
+0685. RV travelers
+0686. Van-life travelers
+0687. National park visitors
+0688. Birdwatchers
+0689. Wildflower enthusiasts
+0690. Landscape photographers
+0691. Recreational anglers
+0692. Fly-fishing enthusiasts
+0693. Recreational hunters
+0694. Kayakers
+0695. Canoeists
+0696. Stand-up paddleboarders
+0697. Recreational sailors
+0698. Scuba divers
+0699. Snorkelers
+0700. Surfers
+0701. Windsurfers
+0702. Kitesurfers
+0703. Downhill skiers
+0704. Snowboarders
+0705. Cross-country skiers
+0706. Snowshoers
+0707. Snowmobile riders
+0708. ATV riders
+0709. Off-road jeep enthusiasts
+0710. Horseback trail riders
+0711. Geocachers
+0712. Orienteering participants
+0713. Stargazers
+0714. Nature walk groups
+0715. Beachcombers
+0716. Road-trip travelers
+0717. Cruise vacationers
+0718. Backpacking international travelers
+0719. Domestic weekend travelers
+0720. Family vacation planners
+
+19. HOBBIES, CRAFTS, AND COLLECTING
+-----------------------------------
+0721. Knitting enthusiasts
+0722. Crochet enthusiasts
+0723. Quilters
+0724. Embroidery hobbyists
+0725. Sewing hobbyists
+0726. Woodworking hobbyists
+0727. Home pottery makers
+0728. Ceramics class students
+0729. Origami enthusiasts
+0730. Scrapbookers
+0731. Calligraphy enthusiasts
+0732. Journaling enthusiasts
+0733. Adult coloring book enthusiasts
+0734. Watercolor hobbyists
+0735. Oil painting hobbyists
+0736. Digital art hobbyists
+0737. Model train collectors
+0738. Stamp collectors
+0739. Coin collectors
+0740. Comic book collectors
+0741. Vinyl record collectors
+0742. Antique collectors
+0743. Vintage clothing collectors
+0744. Sneaker collectors
+0745. Watch collectors
+0746. Toy collectors
+0747. Trading card collectors
+0748. Board game enthusiasts
+0749. Jigsaw puzzle enthusiasts
+0750. Chess club members
+0751. Tabletop role-playing gamers
+0752. Magic trick hobbyists
+0753. Amateur genealogists
+0754. Family history researchers
+0755. Metal detecting hobbyists
+0756. Homebrewing hobbyists
+0757. Candle-making hobbyists
+0758. Soap-making hobbyists
+0759. Jewelry-making hobbyists
+0760. DIY home décor enthusiasts
+
+20. TECHNOLOGY AND ONLINE COMMUNITIES
+-------------------------------------
+0761. PC gamers
+0762. Console gamers
+0763. Mobile gamers
+0764. Esports competitors
+0765. Live game streamers
+0766. Virtual reality enthusiasts
+0767. Augmented reality hobbyists
+0768. Open-source software contributors
+0769. Artificial intelligence hobbyists
+0770. Amateur app developers
+0771. No-code tool builders
+0772. Home automation enthusiasts
+0773. Smart home device owners
+0774. 3D printing hobbyists
+0775. Drone photography hobbyists
+0776. Drone racing enthusiasts
+0777. Amateur radio operators
+0778. Electronics tinkering hobbyists
+0779. Robotics club members
+0780. Computer building enthusiasts
+0781. Mechanical keyboard enthusiasts
+0782. Online forum moderators
+0783. Bloggers
+0784. Newsletter writers
+0785. Social media content creators
+0786. Video content creators
+0787. Live-streaming creators
+0788. Podcast listeners
+0789. Audiobook subscribers
+0790. Online course creators
+0791. Online language exchange participants
+0792. Digital nomads
+0793. Remote coworking community members
+0794. Online resale community members
+0795. Online fan-fiction writers
+0796. Meme creators
+0797. Webcomic readers
+0798. Cryptocurrency enthusiasts
+0799. Personal finance app users
+0800. Digital privacy advocates
+
+21. FOOD, COOKING, AND DINING INTERESTS
+---------------------------------------
+0801. Home cooks
+0802. Home bakers
+0803. Bread-baking enthusiasts
+0804. Sourdough bakers
+0805. Outdoor grilling enthusiasts
+0806. Barbecue smoking enthusiasts
+0807. Vegetarian home cooks
+0808. Vegan home cooks
+0809. Gluten-free home cooks
+0810. Meal-prep enthusiasts
+0811. Slow-cooker enthusiasts
+0812. Pressure cooker enthusiasts
+0813. Air-fryer enthusiasts
+0814. Home coffee brewers
+0815. Specialty coffee enthusiasts
+0816. Tea enthusiasts
+0817. Craft soda enthusiasts
+0818. Mocktail enthusiasts
+0819. Farm-to-table dining enthusiasts
+0820. Farmers market shoppers
+0821. Community-supported agriculture subscribers
+0822. Restaurant reviewers
+0823. Food bloggers
+0824. Food photography enthusiasts
+0825. International cuisine explorers
+0826. Regional American cuisine enthusiasts
+0827. Hot sauce collectors
+0828. Spice blending hobbyists
+0829. Cheese-making hobbyists
+0830. Yogurt-making hobbyists
+0831. Pickling enthusiasts
+0832. Home canning enthusiasts
+0833. Fermentation hobbyists
+0834. Cake decorators
+0835. Cookie decorators
+0836. Chocolate-making hobbyists
+0837. Ice cream-making hobbyists
+0838. Pizza-making hobbyists
+0839. Cooking class attendees
+0840. Potluck dinner organizers
+
+22. PETS, ANIMAL INTERESTS, AND ANIMAL CARE
+-------------------------------------------
+0841. Dog owners
+0842. Cat owners
+0843. Multi-pet households
+0844. First-time pet owners
+0845. Senior pet owners
+0846. Puppy owners
+0847. Kitten owners
+0848. Rescue dog adopters
+0849. Rescue cat adopters
+0850. Pet foster caregivers
+0851. Dog park regulars
+0852. Dog agility competitors
+0853. Dog obedience class participants
+0854. Therapy dog handlers
+0855. Service animal handlers
+0856. Guide dog users
+0857. Pet sitters
+0858. Dog walkers
+0859. Aquarium fish keepers
+0860. Freshwater aquarium hobbyists
+0861. Saltwater reef aquarium hobbyists
+0862. Reptile pet owners
+0863. Pet snake owners
+0864. Pet lizard owners
+0865. Pet turtle owners
+0866. Pet bird owners
+0867. Parrot owners
+0868. Backyard chicken keepers
+0869. Rabbit owners
+0870. Guinea pig owners
+0871. Hamster owners
+0872. Horse owners
+0873. Equestrian club members
+0874. Amateur dog breeders
+0875. Amateur cat breeders
+0876. Pet adoption event volunteers
+0877. Wild bird feeder enthusiasts
+0878. Butterfly garden enthusiasts
+0879. Urban beekeeping hobbyists
+0880. Animal welfare donors
+
+23. CIVIC, FAITH, AND COMMUNITY PARTICIPATION
+---------------------------------------------
+0881. Neighborhood association members
+0882. Homeowners association board members
+0883. Tenant association members
+0884. Community garden volunteers
+0885. Community food pantry volunteers
+0886. Soup kitchen volunteers
+0887. Habitat for Humanity volunteers
+0888. Blood donors
+0889. Organ donor registry participants
+0890. Volunteer firefighters
+0891. Volunteer emergency responders
+0892. Search-and-rescue volunteers
+0893. Youth sports coaches
+0894. Scout troop leaders
+0895. Library friends group members
+0896. Museum volunteers
+0897. Local history society members
+0898. Community theater volunteers
+0899. Community choir members
+0900. Neighborhood watch participants
+0901. Civic club members
+0902. Rotary club members
+0903. Lions club members
+0904. Chamber of commerce members
+0905. Professional association members
+0906. Labor union members
+0907. Religious congregation members
+0908. Interfaith dialogue participants
+0909. Church choir members
+0910. Synagogue community members
+0911. Mosque community members
+0912. Temple community members
+0913. Secular humanist group members
+0914. Community mutual-aid volunteers
+0915. Environmental cleanup volunteers
+0916. Voter registration volunteers
+0917. Local election campaign volunteers
+0918. Public meeting attendees
+0919. Community fundraising organizers
+0920. Nonprofit board members
+
+24. CULTURAL, LANGUAGE, AND HERITAGE COMMUNITIES
+------------------------------------------------
+0921. African American communities
+0922. Hispanic and Latino American communities
+0923. Asian American communities
+0924. Native American communities
+0925. Alaska Native communities
+0926. Native Hawaiian communities
+0927. Pacific Islander American communities
+0928. Multiracial American communities
+0929. Immigrant communities
+0930. First-generation Americans
+0931. Second-generation Americans
+0932. Naturalized U.S. citizens
+0933. U.S. permanent residents
+0934. International expatriates living in the U.S.
+0935. Spanish-speaking households
+0936. Mandarin-speaking households
+0937. Cantonese-speaking households
+0938. Tagalog-speaking households
+0939. Vietnamese-speaking households
+0940. Korean-speaking households
+0941. Arabic-speaking households
+0942. French-speaking households
+0943. Haitian Creole-speaking households
+0944. Portuguese-speaking households
+0945. Russian-speaking households
+0946. Hindi-speaking households
+0947. Urdu-speaking households
+0948. Punjabi-speaking households
+0949. Bengali-speaking households
+0950. Yiddish-speaking households
+0951. American Sign Language users
+0952. Bilingual households
+0953. Multilingual households
+0954. Heritage language learners
+0955. Cultural heritage festival volunteers
+0956. Traditional folk dance participants
+0957. Cultural association members
+0958. International student alumni networks
+0959. Immigrant entrepreneurship networks
+0960. Diaspora community organization members
+
+25. GEOGRAPHIC AND NEIGHBORHOOD COMMUNITIES
+-------------------------------------------
+0961. Residents of major metropolitan areas
+0962. Residents of midsize cities
+0963. Residents of small towns
+0964. Residents of rural communities
+0965. Residents of suburban neighborhoods
+0966. Residents of urban downtowns
+0967. Residents of exurban communities
+0968. Residents of coastal communities
+0969. Residents of mountain towns
+0970. Residents of desert communities
+0971. Residents of Great Plains communities
+0972. Residents of Great Lakes communities
+0973. Residents of Appalachian communities
+0974. Residents of Gulf Coast communities
+0975. Residents of New England communities
+0976. Residents of the Mid-Atlantic region
+0977. Residents of the Southeast
+0978. Residents of the Midwest
+0979. Residents of the Southwest
+0980. Residents of the Pacific Northwest
+0981. Residents of California's Central Valley
+0982. Residents of Alaska
+0983. Residents of Hawaii
+0984. Residents of U.S. island territories
+0985. Residents of college towns
+0986. Residents of military base communities
+0987. Residents of retirement destinations
+0988. Residents of resort towns
+0989. Residents of agricultural counties
+0990. Residents of former industrial towns
+0991. Residents of border communities
+0992. Residents of commuter suburbs
+0993. Residents of historic districts
+0994. Residents of new housing developments
+0995. Residents of planned communities
+0996. Residents of neighborhoods undergoing redevelopment
+0997. Residents of high-rise apartment districts
+0998. Residents of lakefront communities
+0999. Residents of riverfront communities
+1000. Residents of remote off-grid communities
