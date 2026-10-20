@@ -27,6 +27,64 @@
 .lever:active .lever-shaft{transform:rotate(58deg)}.lever:active .lever-ball{transform:translate(-11px,13px)}
 @media(max-width:850px){.reels{display:flex;flex-direction:column}.view{min-height:85px}.item{font-size:21px}}
 @media(max-width:520px){.cabinet{grid-template-columns:minmax(0,1fr) 65px;gap:6px}.reels{display:flex}.view{min-height:75px}.item{font-size:17px;padding:18px 8px}.reel-tools{flex-wrap:wrap;gap:5px}.add-field{flex-basis:100%}.add-option,.remove-option{font-size:10px;padding:9px 7px}.lever{width:100%;height:100%}.lever-art{transform:scale(.55);transform-origin:center center;width:80px}.lever-text{font-size:9px;white-space:normal}.heading{font-size:9px}}
+
+/* Vintage tabletop steel machine */
+:root{font-family:"Arial Narrow",Arial,Helvetica,sans-serif;background:#181715;color:#eee8dd}
+body{background:radial-gradient(ellipse at 50% 5%,#4b443c 0%,#252321 43%,#121110 100%);min-height:100vh}
+main{max-width:1110px;padding:38px 24px 85px}
+header{align-items:center}
+.overline{color:#d8ac83;letter-spacing:.26em}
+h1{font-size:clamp(40px,5.5vw,65px);letter-spacing:-.055em;text-shadow:0 3px 2px #0009}
+h1 em{color:#c3412e}
+.intro{color:#c2b9ae}
+.chip{color:#d9cbb9;border:1px solid #6c645a;background:#282723;box-shadow:inset 0 1px #ffffff16}
+.machine{border:11px ridge #827b6e;border-radius:24px;background:
+repeating-linear-gradient(90deg,transparent 0,transparent 3px,#ffffff05 4px,transparent 5px),
+linear-gradient(117deg,#62615b 0%,#393b3b 9%,#272829 28%,#343637 65%,#141719 100%);
+box-shadow:0 10px 0 #262321,0 21px 0 #111,0 27px 22px #000e,0 52px 90px #000b,inset 0 0 0 3px #161616,inset 0 8px 13px #ffffff22;
+padding:48px 42px 30px;position:relative;margin-top:42px}
+.machine:before{content:"";position:absolute;left:18px;right:18px;top:16px;height:11px;background:repeating-linear-gradient(90deg,#8f8a7d 0 4px,#403f3d 5px 8px);border-radius:3px;box-shadow:0 2px 2px #000b}
+.machine:after{content:"";position:absolute;inset:5px;pointer-events:none;border:1px solid #bdb7a346;border-radius:12px}
+.cabinet{grid-template-columns:minmax(0,1fr) 142px;gap:17px}
+.reels{gap:12px}
+.reel{position:relative;padding:11px 12px 10px;border:2px solid #141616;border-radius:12px;background:linear-gradient(110deg,#272829,#41403c 10%,#242526 22%,#303234 85%,#4d4b44);box-shadow:0 4px 8px #000b,inset 0 1px #aaa39a5e,inset 0 -2px 4px #000}
+.heading{color:#dfcaa8;text-shadow:0 1px #000;letter-spacing:.18em;font-size:11px;margin:0 3px 8px;font-family:Arial,sans-serif}
+.heading .count{color:#b7a894;font-size:10px}
+.view{min-height:95px;border:9px ridge #a69c88;border-radius:7px;background:linear-gradient(180deg,#bcb7ab 0%,#eee6d5 14%,#f8f1df 49%,#dbd2bd 85%,#b5ae9f 100%);box-shadow:0 5px 10px #000e,inset 0 7px 12px #0009,inset 0 -7px 12px #0007,0 0 0 2px #18191b}
+.view:before{height:100%;background:linear-gradient(180deg,#1116,transparent 26%,#ffffff36 48%,transparent 62%,#1117);z-index:2}
+.view:after{height:100%;background:linear-gradient(105deg,#fff8 0%,transparent 14%,transparent 81%,#16161640 100%);z-index:2}
+.item{font-family:Georgia,serif;font-size:clamp(19px,2.3vw,28px);font-weight:700;letter-spacing:-.025em;color:#22201e;text-shadow:0 1px #fff7;padding:23px 18px}
+.view.moving .item{filter:blur(2.5px);transform:translateY(3px)}
+.ordinal{font-family:monospace;bottom:5px;color:#5b554d;z-index:3}
+.reel-tools{margin-top:11px;gap:7px}
+.add-field{background:#191b1c;border:1px solid #76736d;box-shadow:inset 0 2px 4px #000b;color:#fff4de;border-radius:4px}
+.add-option,.remove-option,.btn{background:linear-gradient(#69665f,#333432);border:1px solid #8c8474;color:#f0e9dc;border-radius:5px;box-shadow:0 3px 0 #141516,inset 0 1px #ffffff40;text-shadow:0 1px #000a;cursor:pointer}
+.add-option{background:linear-gradient(#b54c37,#792c22);border-color:#d16a50}
+.remove-option{color:#ffd6c6}
+.add-option:active,.remove-option:active,.btn:active{transform:translateY(2px);box-shadow:0 1px 0 #141516}
+.lever-column{border-radius:15px;border:3px ridge #7e7869;background:linear-gradient(90deg,#242527,#464746 48%,#181919);box-shadow:inset 0 4px 10px #000c,0 4px 8px #0009;position:relative}
+.lever{border:none;box-shadow:none!important;background:transparent!important;cursor:pointer;overflow:visible;gap:14px}
+.lever:hover{filter:brightness(1.07)}
+.lever-art{height:270px;width:120px;transform:none;display:block;position:relative}
+.lever-base{height:111px;width:55px;left:33px;bottom:17px;border:7px ridge #a5a29c;border-radius:18px;background:linear-gradient(90deg,#18191c,#6a6b6a 35%,#343638 76%,#191a1b);box-shadow:0 7px 12px #000a,inset 0 5px 8px #000b}
+.lever-shaft{height:152px;width:17px;left:51px;bottom:101px;transform:rotate(25deg);transform-origin:bottom center;border:2px solid #aaa8a2;background:linear-gradient(90deg,#252629,#dfdfd9 33%,#8f918f 64%,#303135);box-shadow:4px 5px 7px #000b;transition:transform .27s cubic-bezier(.22,.7,.1,1)}
+.lever-ball{height:55px;width:55px;left:100px;top:-4px;transform:translateX(-50%);background:radial-gradient(circle at 28% 24%,#ffb3a1 0%,#d34e38 28%,#921f16 68%,#4f100d 100%);border:2px solid #612016;box-shadow:4px 9px 12px #000c,inset -5px -5px 8px #0005;transition:transform .27s cubic-bezier(.22,.7,.1,1)}
+.lever-text{font-size:11px;color:#e0ccad;letter-spacing:.16em;text-shadow:0 2px 2px #000;font-weight:900;max-width:95px;line-height:1.5}
+.lever.pulled .lever-shaft{transform:rotate(68deg)}
+.lever.pulled .lever-ball{transform:translate(-58px,50px)}
+.lever:active{transform:none}
+.lever:disabled{opacity:1}
+.controls{padding:18px 4px 0}
+.btn{padding:12px 17px}
+.info{color:#d0baa0}
+.separator{height:4px;background:linear-gradient(#121313,#66635b,#111);margin:24px 0}
+.sub{color:#e5cfaa}
+.notes{color:#bcb5a9}
+.settings label{color:#dfd0bb}
+.history{border-color:#6a6055}
+.entry{background:#292725;border:1px solid #696154;color:#d4cabc}
+@media(max-width:680px){main{padding:20px 9px 60px}.machine{padding:34px 13px 22px;border-width:7px}.cabinet{grid-template-columns:minmax(0,1fr) 76px;gap:7px}.reel{padding:7px}.view{min-height:84px;border-width:5px}.item{font-size:clamp(14px,3.6vw,22px);padding:20px 7px}.reel-tools{flex-wrap:wrap}.add-field{flex-basis:100%}.add-option,.remove-option{padding:8px 6px;font-size:10px}.lever-art{transform:scale(.59);transform-origin:center;min-width:120px;left:-28px}.lever-text{font-size:9px}.heading{font-size:9px;letter-spacing:0}.heading .count{display:none}.chip{white-space:normal}.lever-column{overflow:hidden}}
+@media(prefers-reduced-motion:reduce){.lever-shaft,.lever-ball{transition:none}}
 </style></head><body><main><header><div><div class="overline">THE MORTGAGE LAB / RANDOM SCENARIO GENERATOR</div><h1>Mortgage Scenario<br>Twister<em>.</em></h1><p class="intro">Four reels. One unique mortgage challenge. Pull the lever to create a new borrower, income, property, and underwriting obstacle.</p></div><span class="chip">● FOUR INDEPENDENT REELS</span></header>
 <section class="machine"><div class="cabinet"><div id="reels" class="reels"></div><div class="lever-column"><button id="pull" class="lever" aria-label="Pull the lever to spin all four reels"><span class="lever-art"><span class="lever-ball"></span><span class="lever-shaft"></span><span class="lever-base"></span></span><span class="lever-text">PULL TO SPIN</span></button></div></div><div class="controls"><button id="copy" class="btn">Copy scenario</button><button id="clear" class="btn">Clear history</button><span id="stats" class="info">Loading your options…</span></div><div class="separator"></div><div class="sub">Manage your options</div><p class="notes">Type a new option below any reel and click Add. Use Remove current to delete the displayed option from that category. Changes are saved in your browser. You can still import a TXT list below.</p><div class="settings" id="settings"></div></section>
 <div class="below"><div><div class="sub">How randomness works</div><p class="notes">Each final reel is selected independently using the browser's cryptographic random generator. Unbiased rejection sampling avoids modulo bias; the displayed spinning is an animation, not the source of randomness. Reels stop 0.25 seconds apart.</p></div><div class="notes" id="status" role="status">Preparing the reels…</div></div><section class="history"><div class="sub">Recent scenarios</div><div id="history"><p class="notes">No previous spins.</p></div></section></main>
@@ -42,7 +100,7 @@ function pick(i){return lists[i][rand(lists[i].length)]}
 function repaint(){document.querySelectorAll('.reel').forEach((r,i)=>{r.querySelector('.item').textContent=current[i];r.querySelector('.count').textContent=lists[i].length+' OPTIONS';r.querySelector('.ordinal').textContent=lists[i].length?(lists[i].indexOf(current[i])+1)+' / '+lists[i].length:''});const product=lists.reduce((acc,l)=>acc*BigInt(l.length),1n);document.getElementById('stats').textContent=product.toLocaleString()+' possible combinations'}
 function persist(i){try{localStorage.setItem('twister-'+names[i],JSON.stringify(lists[i]))}catch(e){document.getElementById('status').textContent='Browser storage unavailable — change may not persist'}}
 function delay(t){return new Promise(resolve=>setTimeout(resolve,t))}
-async function pull(){if(spinning||lists.some(l=>!l.length))return;spinning=true;document.getElementById('pull').disabled=true;document.querySelectorAll('.reel-tools button').forEach(b=>b.disabled=true);const target=lists.map((_,i)=>pick(i));const start=performance.now(),end=[1500,1750,2000,2250],last=[0,0,0,0];await new Promise(resolve=>{function animate(time){let finished=0;for(let i=0;i<4;i++){const r=document.querySelectorAll('.view')[i];if(time-start>=end[i]){current[i]=target[i];r.classList.remove('moving');finished++}else{r.classList.add('moving');if(time-last[i]>=55+i*10){current[i]=pick(i);last[i]=time}}}repaint();if(finished===4)resolve();else requestAnimationFrame(animate)}requestAnimationFrame(animate)});spinning=false;document.getElementById('pull').disabled=false;document.querySelectorAll('.reel-tools button').forEach(b=>b.disabled=false);history.unshift([...current]);history=history.slice(0,10);drawHistory();document.getElementById('status').textContent='New scenario generated'}
+async function pull(){if(spinning||lists.some(l=>!l.length))return;spinning=true;document.getElementById('pull').classList.add('pulled');document.getElementById('pull').disabled=true;document.querySelectorAll('.reel-tools button').forEach(b=>b.disabled=true);const target=lists.map((_,i)=>pick(i));const start=performance.now(),end=[1500,1750,2000,2250],last=[0,0,0,0];await new Promise(resolve=>{function animate(time){let finished=0;for(let i=0;i<4;i++){const r=document.querySelectorAll('.view')[i];if(time-start>=end[i]){current[i]=target[i];r.classList.remove('moving');finished++}else{r.classList.add('moving');if(time-last[i]>=55+i*10){current[i]=pick(i);last[i]=time}}}repaint();if(finished===4)resolve();else requestAnimationFrame(animate)}requestAnimationFrame(animate)});spinning=false;document.getElementById('pull').classList.remove('pulled');document.getElementById('pull').disabled=false;document.querySelectorAll('.reel-tools button').forEach(b=>b.disabled=false);history.unshift([...current]);history=history.slice(0,10);drawHistory();document.getElementById('status').textContent='New scenario generated'}
 function drawHistory(){const h=document.getElementById('history');h.replaceChildren();if(!history.length){let p=document.createElement('p');p.className='notes';p.textContent='No previous spins.';h.append(p);return}for(const scenario of history){const el=document.createElement('div');el.className='entry';scenario.forEach((s,i)=>{if(i)el.append(' • ');const b=document.createElement('strong');b.textContent=descriptions[i]+': ';el.append(b,document.createTextNode(s))});h.append(el)}}
 async function init(){const reels=document.getElementById('reels'),settings=document.getElementById('settings');descriptions.forEach((d,i)=>{const r=document.createElement('div');r.className='reel';r.innerHTML='<div class="heading"><span>0'+(i+1)+' / '+d+'</span><span class="count"></span></div><div class="view"><div class="item">LOADING…</div><span class="ordinal"></span></div><div class="reel-tools"><input class="add-field" type="text" placeholder="Type a new '+d.toLowerCase()+'…" aria-label="Add new '+d+' option" maxlength="500"><button type="button" class="add-option">+ Add</button><button type="button" class="remove-option">Remove current</button></div>';reels.append(r);
 const addInput=r.querySelector('.add-field');const addButton=r.querySelector('.add-option');const removeButton=r.querySelector('.remove-option');
